@@ -1,0 +1,28 @@
+name: Mission Journal
+favicon: null
+layout_spectrum: 0.37447107629850507
+typography_spectrum: 0.7892851592041552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5470122545957565
+  lightness: 0.4975406089797616
+  saturation: 0.4830482956022024
+  rhythmicContrast: 0.8654257033485919
+purpose: []
