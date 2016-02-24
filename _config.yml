@@ -1,7 +1,7 @@
 name: Mission Journal
 favicon: null
-layout_spectrum: 0.37447107629850507
-typography_spectrum: 0.7892851592041552
+layout_spectrum: 0
+typography_spectrum: 0.5018
 title: Mission Journal
 cta:
   domain: null
