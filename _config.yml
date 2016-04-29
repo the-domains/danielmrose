@@ -1,4 +1,4 @@
-name: Mission Journal
+name: The Journal
 favicon: null
 layout_spectrum: 0.9991
 typography_spectrum: 0.74526
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.4375
-  lightness: 0.4975406089797616
-  saturation: 0.4830482956022024
-  rhythmicContrast: 0.8654257033485919
+  lightness: 0.8125
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
