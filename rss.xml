@@ -4,8 +4,15 @@
         <description><![CDATA[The Journal]]></description>
         <link>https://thegrid.ai/danielmrose/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 13:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 13:43:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielmrose/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[May All Who Seek]]></title>
+            <description><![CDATA[<article><h1>May All Who Seek</h1><p>Tuesday nights I host a gathering of friends at the local pub. We pull a couple of tables together and talk about things that matter. We go beyond the chit chat and get into the weighty questions of life. Regardless of our starting topic (things like transgendered bathrooms and the like…) we always end up coming back to a few key issues.</p></article>]]></description>
+            <link>https://thegrid.ai/danielmrose/may-all-who-seek/index.html</link>
+            <guid isPermaLink="false">631ba926-d870-4883-b2e0-3be21590e4e1</guid>
+            <pubDate>Sat, 30 Apr 2016 13:42:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thankfulness Our Sacrifice]]></title>
             <description><![CDATA[<article><h1>Thankfulness Our Sacrifice</h1><p>There are many folks who feel like there are two different Gods in the Bible. They often say, “There’s the God of the Old Testament and the God of the New Testament.” This feeling comes out because they feel like the God of the Old Testament is angry and the God of the New Testament is loving. As I’m reading through the stories of the Judges of Israel, I totally get that. Yet, over the years I have found that this is simply not the case.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=P99ZfAHfE98</link>
             <guid isPermaLink="false">efc11571-c763-423c-af8b-01b1a84962af</guid>
             <pubDate>Wed, 24 Feb 2016 20:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peace Through Faith]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec879860-22e2-430a-947d-10101a544e3b.jpg">]]></description>
-            <link>https://thegrid.ai/danielmrose/peace-through-faith/index.html</link>
-            <guid isPermaLink="false">1ed9efea-76af-40ed-9559-386cd2c672ce</guid>
-            <pubDate>Wed, 24 Feb 2016 20:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
