@@ -1,33 +1,34 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-04-30T13:42:17.180Z'
-dateModified: '2016-04-30T13:41:46.176Z'
-title: May All Who Seek
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+datePublished: '2016-08-21T13:32:07.015Z'
 sourcePath: _posts/2016-04-30-may-all-who-seek.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-21T13:32:06.542Z'
+title: May All Who Seek
+publisher: {}
+description: >-
+  Tuesday nights I host a gathering of friends at the local pub. We pull a
+  couple of tables together and talk about things that matter. We go beyond the
+  chit chat and get into the weighty questions of life. Regardless of our
+  starting topic (things like transgendered bathrooms and the like…) we always
+  end up coming back to a few key issues.
+inLanguage: null
+inNav: false
+starred: false
 url: may-all-who-seek/index.html
 _type: Article
 
 ---
 # May All Who Seek
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bdc05fd-35cb-4337-8f8f-03af1c7fbc5b.jpg)
 
 Tuesday nights I host a gathering of friends at the [local pub][0]. We pull a couple of tables together and talk about things that matter. We go beyond the chit chat and get into the weighty questions of life. Regardless of our starting topic (things like transgendered bathrooms and the like...) we always end up coming back to a few key issues.
 
 We wrestle through the nature of truth. What is it? Where does it come from? Can it be known? If it can be, where do you find it?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bdc05fd-35cb-4337-8f8f-03af1c7fbc5b.jpg)
 
 Another key issue we come back to again and again is what is "good"? What is the nature of goodness? Does it exist apart from evil? Who defines it?
 
