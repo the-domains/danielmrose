@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    url: 'http://danielmrose.com'
+    type: external
 favicon: null
 title: Daniel M. Rose
 description: A humble attempt at examining my life.
