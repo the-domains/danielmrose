@@ -6,22 +6,22 @@ description: >-
   told me about his new television. He was not planning on buying a television,
   he just wanted to go in and buy a rack that was capable of holding his 40” TV
   and a 65” TV whenever he upgraded. 
-dateModified: '2017-02-25T13:19:53.590Z'
-datePublished: '2017-02-25T13:19:54.151Z'
+dateModified: '2017-02-25T13:20:00.351Z'
+datePublished: '2017-02-25T13:20:00.850Z'
 title: It’s Not A Sales Pitch
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-25-its-not-a-sales-pitch.md
 starred: false
 datePublishedOriginal: '2017-02-25T13:19:54.151Z'
-sourcePath: _posts/2017-02-25-its-not-a-sales-pitch.md
 url: its-not-a-sales-pitch/index.html
 _type: Article
 
 ---
 # It's Not A Sales Pitch
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c957430-d5b9-4c48-bed9-b2a06d1aa93e.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9979ddb769e455aa01e61e0ebd66258e/croprotate.jpg?cropheight=3263&cropwidth=3871&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5c957430-d5b9-4c48-bed9-b2a06d1aa93e.jpg&x=0&y=0)
 
 My Dad and Father-in-law are both car salesmen. My wife, Amy, and I both grew up appreciating salesmanship. The other day I had breakfast with my Dad and he told me about his new television. He was not planning on buying a television, he just wanted to go in and buy a rack that was capable of holding his 40" TV and a 65" TV whenever he upgraded. 
 
