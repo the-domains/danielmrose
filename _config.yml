@@ -1,34 +1,43 @@
-name: The Journal
-favicon: null
-layout_spectrum: 0.5018
-typography_spectrum: 1
-navigation:
-  - name: About
-    url: 'http://danielmrose.com'
-    type: external
-title: ''
-description: A humble attempt at examining my life.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.07800056256455287
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.05581461483483563
+  lightness: 0.4034331274495488
+  saturation: 0.848484150723342
+  rhythmicContrast: 0.928468037632543
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#231f21'
-    - '#ffffff'
-    - '#006940'
-    - '#676566'
-    - '#cecece'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.375
-  rhythmicContrast: 0.25
-purpose: []
+layout_spectrum: 0.9858757452787554
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Daniel Rose
+  email: drose@acts13.net
+  url: 'http://danielmrose.com'
+name: Daniel M. Rose
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Me
+    url: 'https://about.me/danielmrose'
+    type: external
+favicon: null
+title: The 365
+content: []
+description: Freshly tapped thoughts on life and God
+purpose:
+  - type: internal
+    label: Subscribe!
+    item: 31083efb-5c22-466c-b78f-b10e199615f3
+github: true
