@@ -34,6 +34,9 @@ navigation:
   - name: About Me
     url: 'https://about.me/danielmrose'
     type: external
+  - name: The Church
+    url: 'http://theantiochmovement.org'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7172754f-5cec-4a8d-bb29-cd5250b1cf6e.ico
 title: The Rev
