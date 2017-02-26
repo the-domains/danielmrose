@@ -16,7 +16,7 @@ opengraph:
   appId: '378960709007'
 layout_spectrum: 0.9858757452787554
 analytics:
-  google: null
+  google: UA-12103272-1
   facebook: ''
   twitter: null
 author:
@@ -32,7 +32,8 @@ navigation:
   - name: About Me
     url: 'https://about.me/danielmrose'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7172754f-5cec-4a8d-bb29-cd5250b1cf6e.ico
 title: The Rev
 content: []
 description: Freshly tapped thoughts on life and God
