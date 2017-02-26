@@ -34,9 +34,6 @@ navigation:
   - name: About Me
     url: 'https://about.me/danielmrose'
     type: external
-  - name: The Antioch Movement
-    url: 'http://theantiochmovement.org'
-    type: external
   - name: Doubt On Tap
     url: 'http://facebook.com/doubtontap'
     type: external
