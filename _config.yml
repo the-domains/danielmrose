@@ -49,3 +49,6 @@ purpose:
   - type: internal
     label: Subscribe!
     item: 31083efb-5c22-466c-b78f-b10e199615f3
+  - type: contact
+    url: 'mailto:drose@acts13.net'
+    label: Schedule Me To Speak
