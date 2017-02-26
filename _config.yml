@@ -12,12 +12,12 @@ color:
   rhythmicContrast: 0.928468037632543
 opengraph:
   image: null
-  type: null
-  appId: null
+  type: Article
+  appId: '378960709007'
 layout_spectrum: 0.9858757452787554
 analytics:
   google: null
-  facebook: null
+  facebook: ''
   twitter: null
 author:
   name: Daniel Rose
