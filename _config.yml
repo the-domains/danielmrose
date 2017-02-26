@@ -13,8 +13,8 @@ color:
 github: true
 opengraph:
   image: null
-  type: Article
-  appId: '378960709007'
+  type: ''
+  appId: ''
 layout_spectrum: 0.9858757452787554
 analytics:
   google: UA-12103272-1
