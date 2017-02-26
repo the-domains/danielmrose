@@ -10,6 +10,7 @@ color:
   lightness: 0.4034331274495488
   saturation: 0.848484150723342
   rhythmicContrast: 0.928468037632543
+github: true
 opengraph:
   image: null
   type: Article
@@ -24,6 +25,7 @@ author:
   email: drose@acts13.net
   url: 'http://danielmrose.com'
 name: Daniel M. Rose
+url: 'http://danielmrose.com'
 cta:
   domain: null
   bucket: null
@@ -31,6 +33,9 @@ cta:
 navigation:
   - name: About Me
     url: 'https://about.me/danielmrose'
+    type: external
+  - name: The Antioch Movement
+    url: 'http://theantiochmovement.org'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7172754f-5cec-4a8d-bb29-cd5250b1cf6e.ico
@@ -41,5 +46,3 @@ purpose:
   - type: internal
     label: Subscribe!
     item: 31083efb-5c22-466c-b78f-b10e199615f3
-github: true
-url: 'http://danielmrose.com'
