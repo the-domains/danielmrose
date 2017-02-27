@@ -1,4 +1,3 @@
-layout_spectrum: 0.3560508618371026
 typography_spectrum: 0.07950803279664626
 color:
   brandColors:
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: ''
   appId: ''
+layout_spectrum: 0.3560508618371026
 analytics:
   google: UA-12103272-1
   facebook: ''
@@ -36,6 +36,9 @@ navigation:
     type: external
   - name: The Church
     url: 'http://theantiochmovement.org'
+    type: external
+  - name: Doubt On Tap
+    url: 'http://facebook.com/doubtontap'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7172754f-5cec-4a8d-bb29-cd5250b1cf6e.ico
