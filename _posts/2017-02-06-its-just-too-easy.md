@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Sometimes we think we live a new and unique in human history. It turns out that just isn’t the case. People, it turns out, are people. You, me, and the guy down the street, we are just like the people who have come before us. I know that might be a surprise but it is what it is. Truly, “there is nothing new under the\_sun.”"
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:36.292Z'
+dateModified: '2017-02-28T16:30:15.836Z'
+datePublished: '2017-02-28T16:30:16.019Z'
 title: It’s Just Too Easy
 author: []
 publisher: {}
