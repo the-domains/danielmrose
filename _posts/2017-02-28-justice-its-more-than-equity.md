@@ -1,19 +1,16 @@
 ---
 inFeed: true
-description: >-
-  There’s a picture that I have shared on more than occasion. It is one that I
-  first saw in my children’s school. I really resonated with the point that it
-  was communicating. Check it out…
-dateModified: '2017-02-28T16:37:55.477Z'
-datePublished: '2017-02-28T16:37:56.512Z'
+description: "There’s a picture that I have shared on more than occasion. It is one that I first saw in my children’s school. I really resonated with the point that it was communicating. Check it\_out…"
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.430Z'
 title: Justice - It’s More Than Equity
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-28-justice-its-more-than-equity.md
 starred: false
 datePublishedOriginal: '2017-02-28T16:37:56.512Z'
-sourcePath: _posts/2017-02-28-justice-its-more-than-equity.md
 url: justice-its-more-than-equity/index.html
 _type: Article
 
