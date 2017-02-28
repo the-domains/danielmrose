@@ -5,8 +5,8 @@ description: >-
   recommendation. I write them and then often wonder if their even read.
   Potential employers want them to see if this person can follow through on a
   mundane task or to see if a person will vouch for them.
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:35.769Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.385Z'
 title: Letters of Recommendation
 author: []
 publisher: {}
