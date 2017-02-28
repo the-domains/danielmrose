@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "My brother shared a video with me a few weeks ago. It has since disappeared off the internet. But, the gist of it was focused on this one question, “How do people\_change?”"
-dateModified: '2017-02-28T16:27:03.830Z'
-datePublished: '2017-02-28T16:27:04.840Z'
+dateModified: '2017-02-28T16:28:27.479Z'
+datePublished: '2017-02-28T16:28:27.684Z'
 title: How Do We Change
 author: []
 publisher: {}
