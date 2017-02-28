@@ -8,16 +8,16 @@ description: >-
   be no intervention from the United Nations. There will be no need for a
   foreign super-power to act as a nation builder. Every time this happens it is
   an amazing thing to behold.
-dateModified: '2017-02-28T16:44:47.147Z'
-datePublished: '2017-02-28T16:44:48.324Z'
+dateModified: '2017-02-28T16:45:12.343Z'
+datePublished: '2017-02-28T16:45:12.582Z'
 title: In Preparation of Inauguration Day
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-28-in-preparation-of-inauguration-day.md
 starred: false
 datePublishedOriginal: '2017-02-28T16:44:48.324Z'
-sourcePath: _posts/2017-02-28-in-preparation-of-inauguration-day.md
 url: in-preparation-of-inauguration-day/index.html
 _type: Article
 
