@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Sadly, many Jesus followers struggle with guilt and shame. It’s an epidemic that needs to be addressed and dealt with. For pastors like myself, we need to speak into this issue and challenge the legalism of the new pietism that has developed in many of our circles.\_"
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:36.382Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.425Z'
 title: What Matters Most? Outside or Insider?
 author: []
 publisher: {}
