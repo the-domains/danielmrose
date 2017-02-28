@@ -1,18 +1,15 @@
 ---
 inFeed: true
-description: >-
-  My brother shared a video with me a few weeks ago. It has since disappeared
-  off the internet. But, the gist of it was focused on this one question, “How
-  do people change?”
-dateModified: '2017-02-28T16:26:37.241Z'
-datePublished: '2017-02-28T16:26:38.816Z'
+description: "My brother shared a video with me a few weeks ago. It has since disappeared off the internet. But, the gist of it was focused on this one question, “How do people\_change?”"
+dateModified: '2017-02-28T16:26:45.109Z'
+datePublished: '2017-02-28T16:26:46.083Z'
 title: How Do We Change
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-28-how-do-we-change.md
 starred: false
 datePublishedOriginal: '2017-02-28T16:26:38.816Z'
-sourcePath: _posts/2017-02-28-how-do-we-change.md
 _type: Blurb
 
 ---
