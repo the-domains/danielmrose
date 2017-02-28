@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "I am at a gathering called Presbytery. This is the regional gathering for the Teaching and Ruling Elders from our region. It’s a remarkable time to gather with men and women who have said,\_“I’m all in. I’m willing to serve the church as an under-shepherd of the Great Shepherd.\_"
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:35.586Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.373Z'
 title: Let The Elder Be Worthy
 author: []
 publisher: {}
