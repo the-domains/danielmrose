@@ -6,16 +6,16 @@ description: >-
   because it is filled with broken people. We are all in process trying to be
   more like Jesus but we all fail, often. It gets really ugly when we “Jesus
   wash” our sinful behaviors. 
-dateModified: '2017-02-27T15:10:52.604Z'
-datePublished: '2017-02-27T15:10:53.785Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.372Z'
 title: It Really Is About Jesus
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-27-it-really-is-about-jesus.md
 starred: false
 datePublishedOriginal: '2017-02-27T15:10:53.785Z'
-sourcePath: _posts/2017-02-27-it-really-is-about-jesus.md
 url: it-really-is-about-jesus/index.html
 _type: Article
 
