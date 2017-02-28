@@ -6,8 +6,8 @@ description: >-
   told me about his new television. He was not planning on buying a television,
   he just wanted to go in and buy a rack that was capable of holding his 40” TV
   and a 65” TV whenever he upgraded.
-dateModified: '2017-02-25T13:39:52.117Z'
-datePublished: '2017-02-25T13:39:52.780Z'
+dateModified: '2017-02-28T16:20:33.926Z'
+datePublished: '2017-02-28T16:20:35.566Z'
 title: It’s Not A Sales Pitch
 author: []
 publisher: {}
