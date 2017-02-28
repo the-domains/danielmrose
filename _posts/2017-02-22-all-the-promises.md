@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "When I spend time talking with friends, who are not Christians, about religion they often get frustrated with me. They get frustrated because I don’t really want to discuss things like evolution and existence of God. I’m not all that interested in those questions. I think those questions tend to work themselves out on their own in the mind and heart of a person.\_"
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:35.592Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.385Z'
 title: All The Promises
 author: []
 publisher: {}
