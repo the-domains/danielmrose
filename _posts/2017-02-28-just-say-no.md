@@ -1,16 +1,25 @@
 ---
 inFeed: true
-description: "During his speech at the National Prayer Breakfast President Trump stated that he was going to end the\_Johnson Amendment. An aspect of this amendment, in a nut shell, prohibits pastors from campaigning from the pulpit and funneling campaign contributions from churches (a term inclusive of houses of worship) to politicians. These prohibitions allow for churches to be tax exempt and allows for religious leaders other tax benefits (minister’s housing allowance, etc…)."
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:35.594Z'
+description: >-
+  During his speech at the National Prayer Breakfast President Trump stated that
+  he was going to end the Johnson Amendment. An aspect of this amendment, in a
+  nut shell, prohibits pastors from campaigning from the pulpit and funneling
+  campaign contributions from churches (a term inclusive of houses of worship)
+  to politicians. These prohibitions allow for churches to be tax exempt and
+  allows for religious leaders other tax benefits (minister’s housing allowance,
+  etc…).
+dateModified: '2017-02-28T16:28:45.849Z'
+datePublished: '2017-02-28T16:28:46.882Z'
 title: Just Say No!
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-02-28-just-say-no.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-28T16:19:28.128Z'
-_type: Blurb
+url: just-say-no/index.html
+_type: Article
 
 ---
 # Just Say No!
@@ -21,6 +30,8 @@ _type: Blurb
 During his speech at the National Prayer Breakfast President Trump stated that he was going to end the [Johnson Amendment][0]. An aspect of this amendment, in a nut shell, prohibits pastors from campaigning from the pulpit and funneling campaign contributions from churches (a term inclusive of houses of worship) to politicians. These prohibitions allow for churches to be tax exempt and allows for religious leaders other tax benefits (minister's housing allowance, etc...).
 
 As a pastor, I am deeply concerned by talk of over-turning this amendment.
+
+---
 
 From the founding of this country, Christians have been deeply concerned for the separation of Church and State. It was the Christians who demanded that this be part of the who we are as a nation. Why? Because the memories of the Crown seeking to control the Church were still all too fresh in the minds of many. The [Establishment Clause][1] is critically important to life and well-being of the Church in the United States.
 
