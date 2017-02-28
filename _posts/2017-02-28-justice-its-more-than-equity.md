@@ -1,8 +1,11 @@
 ---
 inFeed: true
-description: "There’s a picture that I have shared on more than occasion. It is one that I first saw in my children’s school. I really resonated with the point that it was communicating. Check it\_out…"
-dateModified: '2017-02-28T16:38:34.664Z'
-datePublished: '2017-02-28T16:38:36.430Z'
+description: >-
+  There’s a picture that I have shared on more than occasion. It is one that I
+  first saw in my children’s school. I really resonated with the point that it
+  was communicating. Check it out…
+dateModified: '2017-02-28T16:45:34.798Z'
+datePublished: '2017-02-28T16:45:35.695Z'
 title: Justice - It’s More Than Equity
 author: []
 publisher: {}
@@ -22,6 +25,8 @@ There's a picture that I have shared on more than occasion. It is one that I fir
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d94eb69b-27e3-456d-aa94-b2388f7cf930.png)
 
 When I first saw this picture it came with a caption: "Equality is not justice." I remember thinking, "Yes! Amen!"
+
+---
 
 Recently, in my research and study on what biblical justice looks like I stumbled on a different picture. This picture is even better:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7e5e2f4-8d49-4e71-8359-60ac475b7514.jpg)
