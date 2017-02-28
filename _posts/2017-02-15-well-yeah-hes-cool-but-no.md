@@ -5,8 +5,8 @@ description: >-
   discovered it was something completely different? Perhaps I’m a bit too
   trusting but this seems to happen to me. I want to believe the best in people
   and trust them. This sometimes gets me into trouble.
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:35.560Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.408Z'
 title: 'Well Yeah, He’s Cool, But No'
 author: []
 publisher: {}
