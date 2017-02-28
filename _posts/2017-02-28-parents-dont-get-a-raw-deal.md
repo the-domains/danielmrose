@@ -1,14 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Over the last few days I have bumped into an article by Rhonda Stephens
-  entitled, “Parenting: Are We Getting A Raw Deal?” I saw it once and read it. I
-  saw it a second time and read it again. The first time I laughed and
-  remembered my childhood and how it reflected much of what Stephens wrote. I
-  appreciated that at the end she makes it clear that maybe the current state of
-  affairs is not the way things ought to be.
-dateModified: '2017-02-28T16:48:09.179Z'
-datePublished: '2017-02-28T16:48:10.398Z'
+description: "Over the last few days I have bumped into an article by Rhonda Stephens entitled, “Parenting: Are We Getting A Raw Deal?” I saw it once and read it. I saw it a second time and read it again. The first time I laughed and remembered my childhood and how it reflected much of what Stephens wrote. I appreciated that at the end she makes it clear that maybe the current state of affairs is not the way things ought to\_be."
+dateModified: '2017-02-28T16:49:11.457Z'
+datePublished: '2017-02-28T16:49:11.670Z'
 title: Parents Don’t Get A Raw Deal
 author: []
 publisher: {}
