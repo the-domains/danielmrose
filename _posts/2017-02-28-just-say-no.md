@@ -1,22 +1,15 @@
 ---
 inFeed: true
-description: >-
-  During his speech at the National Prayer Breakfast President Trump stated that
-  he was going to end the Johnson Amendment. An aspect of this amendment, in a
-  nut shell, prohibits pastors from campaigning from the pulpit and funneling
-  campaign contributions from churches (a term inclusive of houses of worship)
-  to politicians. These prohibitions allow for churches to be tax exempt and
-  allows for religious leaders other tax benefits (minister’s housing allowance,
-  etc…).
-dateModified: '2017-02-28T16:19:26.512Z'
-datePublished: '2017-02-28T16:19:28.128Z'
+description: "During his speech at the National Prayer Breakfast President Trump stated that he was going to end the\_Johnson Amendment. An aspect of this amendment, in a nut shell, prohibits pastors from campaigning from the pulpit and funneling campaign contributions from churches (a term inclusive of houses of worship) to politicians. These prohibitions allow for churches to be tax exempt and allows for religious leaders other tax benefits (minister’s housing allowance, etc…)."
+dateModified: '2017-02-28T16:20:33.926Z'
+datePublished: '2017-02-28T16:20:35.594Z'
 title: Just Say No!
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-28-just-say-no.md
 starred: false
 datePublishedOriginal: '2017-02-28T16:19:28.128Z'
-sourcePath: _posts/2017-02-28-just-say-no.md
 _type: Blurb
 
 ---
