@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "As a pastor one of the things that I struggle with the most is whether or not I make any difference. Did that sermon change any lives? Did that prayer we did the other day matter? Does anyone actually listen to anything I say? Is there any value, any value at all, in what it is that I’m doing?\_"
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:36.247Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.395Z'
 title: 'Don’t Quit. Please Don’t Quit. '
 author: []
 publisher: {}
