@@ -4,8 +4,8 @@ description: >-
   This recent election our country has developed a wider divide than it ever has
   before. The folks in the middle are more quiet. The folks on either edge are
   louder and louder.
-dateModified: '2017-02-28T16:08:33.673Z'
-datePublished: '2017-02-28T16:08:34.218Z'
+dateModified: '2017-02-28T16:20:33.926Z'
+datePublished: '2017-02-28T16:20:35.576Z'
 title: 'If You Hate Your Brother, Watch Out!'
 author: []
 publisher: {}
