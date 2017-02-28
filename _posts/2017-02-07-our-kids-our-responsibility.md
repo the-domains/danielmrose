@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "I see so much hand-wringing about the future generations. People are deeply concerned for their kids and grand-kids. They take to social media and whine or complain. They mock kids today and their work ethic.\_"
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:36.317Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.424Z'
 title: 'Our Kids, Our Responsibility'
 author: []
 publisher: {}
