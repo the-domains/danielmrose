@@ -4,15 +4,22 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Feb 2017 18:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2017 15:21:00 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Feb 2017 18:52:27 GMT</pubDate>
+        <pubDate>Tue, 28 Feb 2017 15:20:52 GMT</pubDate>
         <item>
             <title><![CDATA[The Lie]]></title>
             <description><![CDATA[<h1>The Lie</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8696f23d-b634-4adb-84c5-cc77698cf3b3.jpg">]]></description>
             <link>http://danielmrose.com/the-lie/index.html</link>
             <guid isPermaLink="false">22122e15-6d17-475f-b8c5-fd3ccad6952b</guid>
             <pubDate>Mon, 27 Feb 2017 18:47:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Jesus Way]]></title>
+            <description><![CDATA[<h1>The Jesus Way</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a4d4657-90ab-4bbf-9ebf-2445de847e72.jpg">,<p>An insidious belief has exploded into American Christianity. This belief is that following Jesus will be all roses and puppies. Some call it the “Prosperity Gospel.” Its purveyors argue that if you have enough faith then you will have health and wealth. God wants you to be rich and that everything in your life should be going easy and well. </p>,<p>What an attractive offer! Who wouldn’t want that? </p>,<p>The problem is, that isn’t the Jesus way. </p>]]></description>
+            <link>http://danielmrose.com/the-jesus-way/index.html</link>
+            <guid isPermaLink="false">184c9a66-b362-43f1-b2e1-4b173130494d</guid>
+            <pubDate>Tue, 28 Feb 2017 15:20:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It Really Is About Jesus]]></title>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/its-not-just-about-you/index.html</link>
             <guid isPermaLink="false">1391c4df-3c4e-464a-a6cb-e7dea2877c0a</guid>
             <pubDate>Wed, 22 Feb 2017 18:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Does God Want?]]></title>
-            <description><![CDATA[<h1>What Does God Want?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1057aa42-2c97-4116-91c3-0e81be39811e.jpg">,<p>One question that I get asked a lot as a pastor is,&nbsp;“What does God want from me?” It can seem like a daunting question. There are so many really good things for followers of Jesus to do in their lives.&nbsp;</p>,<p>How can anyone possibly figure out what God wants them to do? How are we supposed to live our lives? With the infinite possibilities before us, is there any direction?&nbsp;</p>]]></description>
-            <link>http://danielmrose.com/what-does-god-want/index.html</link>
-            <guid isPermaLink="false">630d73ca-0dd9-4579-be2e-0200c6d49c6e</guid>
-            <pubDate>Wed, 22 Feb 2017 18:38:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
