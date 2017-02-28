@@ -8,8 +8,8 @@ description: >-
   to politicians. These prohibitions allow for churches to be tax exempt and
   allows for religious leaders other tax benefits (minister’s housing allowance,
   etc…).
-dateModified: '2017-02-28T16:28:45.849Z'
-datePublished: '2017-02-28T16:28:46.882Z'
+dateModified: '2017-02-28T16:30:15.836Z'
+datePublished: '2017-02-28T16:30:16.024Z'
 title: Just Say No!
 author: []
 publisher: {}
