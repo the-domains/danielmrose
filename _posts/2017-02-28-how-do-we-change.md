@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: "My brother shared a video with me a few weeks ago. It has since disappeared off the internet. But, the gist of it was focused on this one question, “How do people\_change?”"
-dateModified: '2017-02-28T16:26:45.109Z'
-datePublished: '2017-02-28T16:26:46.083Z'
+dateModified: '2017-02-28T16:27:01.127Z'
+datePublished: '2017-02-28T16:27:02.054Z'
 title: How Do We Change
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-02-28-how-do-we-change.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-28T16:26:38.816Z'
-_type: Blurb
+url: how-do-we-change/index.html
+_type: Article
 
 ---
 # How Do We Change
@@ -21,6 +23,8 @@ My brother shared a video with me a few weeks ago. It has since disappeared off 
 In the video, a police officer told the story of how a man approached him at a restaurant after observing the officer during his meal. The officer, as most officers do, was on high alert while he ate, completely on. The man who observed him shared that he had not always been on the "right side of the law" but that if anything were to have happened in that place he would have had the officer's back.
 
 Both men were changed.
+
+---
 
 I am learning that there is a fundamental way that we as people change. **We change through our interactions with other people.** This sounds obvious. This seems to be a "duh" kind of concept. Yet, it seems to be a foreign reality to most people. I'm not speaking of social media interactions. No, I'm speaking of real life, flesh and blood, face to face interactions with other people.
 
