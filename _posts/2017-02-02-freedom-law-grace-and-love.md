@@ -7,8 +7,8 @@ description: >-
   golden rule, “Do unto others as you’d have them do to you.” But that’s not
   really the case. The religions of the world are all very different from one
   another. Each has their beauty, but they are not simply the same.
-dateModified: '2017-02-28T16:28:27.479Z'
-datePublished: '2017-02-28T16:28:27.924Z'
+dateModified: '2017-02-28T16:30:15.836Z'
+datePublished: '2017-02-28T16:30:16.019Z'
 title: 'Freedom, Law, Grace, and Love'
 author: []
 publisher: {}
