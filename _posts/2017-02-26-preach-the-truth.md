@@ -7,8 +7,8 @@ description: >-
   confirm our positions. We never need to interact with anyone who disagrees
   with us. Our positions or perspectives need not ever be challenged and we
   never need to be made to feel uncomfortable. 
-dateModified: '2017-02-26T19:25:50.771Z'
-datePublished: '2017-02-26T19:25:51.984Z'
+dateModified: '2017-02-28T16:20:33.926Z'
+datePublished: '2017-02-28T16:20:35.563Z'
 title: Preach the Truth
 author: []
 publisher: {}
