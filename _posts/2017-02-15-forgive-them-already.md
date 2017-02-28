@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "I am amazed at how easy it is to hold a grudge. Someone hurts you and it just festers there under the surface. You’re never able to really let it go. You just hold on to that slight and as a result you lose trust. When trust is lost, dislike, contempt, and hatred comes.\_"
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:35.553Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.396Z'
 title: Forgive Them Already
 author: []
 publisher: {}
