@@ -4,8 +4,8 @@ description: >-
   If you’re like me you don’t like cognitive dissonance. You try really hard to
   deal with it and eliminate it. This means that I have this general posture
   toward creating binary perspectives when reality dictates a nuanced approach.
-dateModified: '2017-02-28T16:20:33.926Z'
-datePublished: '2017-02-28T16:20:35.904Z'
+dateModified: '2017-02-28T16:38:34.664Z'
+datePublished: '2017-02-28T16:38:36.426Z'
 title: We Are In This Together
 author: []
 publisher: {}
