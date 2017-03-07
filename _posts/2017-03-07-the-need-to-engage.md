@@ -5,22 +5,26 @@ description: >-
   close. On Tuesday nights I gather with a group of people who were once
   strangers but have become friends. On Tuesday nights I hear some of craziest,
   most genuine, honest, authentic, and insane perspectives on the world. 
-dateModified: '2017-03-07T19:04:53.330Z'
-datePublished: '2017-03-07T19:04:54.152Z'
+dateModified: '2017-03-07T19:05:02.354Z'
+datePublished: '2017-03-07T19:05:03.529Z'
 title: The Need to Engage
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-07-the-need-to-engage.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-07T19:04:54.152Z'
-sourcePath: _posts/2017-03-07-the-need-to-engage.md
-_type: Blurb
+url: the-need-to-engage/index.html
+_type: Article
 
 ---
 # The Need to Engage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df21444-22b8-47c9-8c95-3561ad8f2754.jpg)
 
 Tuesday nights are my favorite night of the week. Hands down, it's not even close. On Tuesday nights I gather with a group of people who were once strangers but have become friends. On Tuesday nights I hear some of craziest, most genuine, honest, authentic, and insane perspectives on the world. 
+
+---
 
 I love Tuesdays because they are the night that I host [Doubt On Tap][0]. It's an evening at a pub where a group of people get together and talk about things that matter. We discuss our perspectives on the world and nobody is afraid to share because they know that they will be heard. We rarely agree on anything, but each of us are heard. 
 
