@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Mar 2017 16:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2017 16:03:44 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Mar 2017 16:02:56 GMT</pubDate>
+        <pubDate>Wed, 08 Mar 2017 16:03:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[Just Me and Jesus…Nope.]]></title>
+            <description><![CDATA[<h1>Just Me and Jesus…Nope.</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55672ef5-26d8-4665-9ae6-6f6df0835d1a.jpg">,<p>"Just me and Jesus." Have you heard that before? It's one of the single greatest lies that Christians have ever bought into.</p>]]></description>
+            <link>http://danielmrose.com/just-me-and-jesusnope/index.html</link>
+            <guid isPermaLink="false">8ed73877-27da-4807-96e3-a291065d17a5</guid>
+            <pubDate>Wed, 08 Mar 2017 16:02:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Need to Engage]]></title>
             <description><![CDATA[<h1>The Need to Engage</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df21444-22b8-47c9-8c95-3561ad8f2754.jpg">,<p>Tuesday nights are my favorite night of the week. Hands down, it’s not even close. On Tuesday nights I gather with a group of people who were once strangers but have become friends. On Tuesday nights I hear some of craziest, most genuine, honest, authentic, and insane perspectives on the world. </p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/the-jesus-way/index.html</link>
             <guid isPermaLink="false">184c9a66-b362-43f1-b2e1-4b173130494d</guid>
             <pubDate>Tue, 28 Feb 2017 15:20:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Lie]]></title>
-            <description><![CDATA[<h1>The Lie</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8696f23d-b634-4adb-84c5-cc77698cf3b3.jpg">]]></description>
-            <link>http://danielmrose.com/the-lie/index.html</link>
-            <guid isPermaLink="false">22122e15-6d17-475f-b8c5-fd3ccad6952b</guid>
-            <pubDate>Mon, 27 Feb 2017 18:47:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
