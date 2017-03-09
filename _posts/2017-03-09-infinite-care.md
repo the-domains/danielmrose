@@ -1,16 +1,16 @@
 ---
 inFeed: true
-description: "There are times when we don't think God cares about us. For some of us, we think that we are so good off compared to others that God doesn't need to hear about our troubles. So, we hold them back from him. We think, \"God has bigger things on his plate to worry about.\" Our world seems to be coming apart at the seams and our little issues don't appear to be that big.\_So, we hold them back from him. "
-dateModified: '2017-03-09T18:14:13.853Z'
-datePublished: '2017-03-09T18:14:14.509Z'
+description: "There are times when we don't think God cares about us. For some of us, we think that we are so good off compared to others that God doesn't need to hear about our troubles.\_So, we hold them back from him.\_We think, \"God has bigger things on his plate to worry about.\" Our world seems to be coming apart at the seams and our little issues don't appear to be that big.\_So, we hold them back from him.\_"
+dateModified: '2017-03-09T18:15:31.045Z'
+datePublished: '2017-03-09T18:15:32.786Z'
 title: Infinite Care
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-09-infinite-care.md
 starred: false
 datePublishedOriginal: '2017-03-09T18:14:14.509Z'
-sourcePath: _posts/2017-03-09-infinite-care.md
 url: infinite-care/index.html
 _type: Article
 
