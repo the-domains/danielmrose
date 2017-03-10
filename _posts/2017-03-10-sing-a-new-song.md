@@ -1,23 +1,16 @@
 ---
 inFeed: true
-description: >-
-  Have you noticed when you're around a University of Michigan grad you find
-  that out in the first five minutes of the conversation? If you've ever been
-  around a vegan, the same principle applies. The cross-fitter may be the best
-  example of this! While these are all generalizations and are used as punch
-  lines to jokes, there is some real truth to them. Why? Because these people
-  have experienced significant life change through their experiences and these
-  things have, in a sense, placed a song in their heart.
-dateModified: '2017-03-10T18:42:51.107Z'
-datePublished: '2017-03-10T18:42:52.095Z'
+description: "Have you noticed when you're around a University of Michigan grad you find that out in the first five minutes of the conversation? If you've ever been around a vegan, the same principle applies.\_The cross-fitter may be the best example of this! While these are all generalizations and are used as punch lines to jokes, there is some real truth to them. Why? Because these people have experienced significant life change through their experiences and these things have, in a sense, placed a song in their heart."
+dateModified: '2017-03-10T18:44:19.282Z'
+datePublished: '2017-03-10T18:44:19.884Z'
 title: Sing a New Song
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-10-sing-a-new-song.md
 starred: false
 datePublishedOriginal: '2017-03-10T18:42:52.095Z'
-sourcePath: _posts/2017-03-10-sing-a-new-song.md
 url: sing-a-new-song/index.html
 _type: Article
 
