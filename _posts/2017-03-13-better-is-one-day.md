@@ -5,16 +5,16 @@ description: >-
   times. For some reason I am fascinated by the thought. I am quite certain that
   I would never want to actually have lived then, but to ponder their lifestyle
   is something that captures my imagination. 
-dateModified: '2017-03-13T16:44:41.894Z'
-datePublished: '2017-03-13T16:44:42.233Z'
+dateModified: '2017-03-13T16:45:59.866Z'
+datePublished: '2017-03-13T16:46:00.257Z'
 title: Better Is One Day
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-13-better-is-one-day.md
 starred: false
 datePublishedOriginal: '2017-03-13T16:44:42.233Z'
-sourcePath: _posts/2017-03-13-better-is-one-day.md
 url: better-is-one-day/index.html
 _type: Article
 
@@ -98,7 +98,7 @@ _blessed is the one who trusts in you! (Psalm 84, ESV)_
 
 This is a psalm of pilgrimage. The people of God would set out on pilgrimage to worship at the Temple in Jerusalem. There was no place else that they could offer sacrifices and reconcile themselves with their God. 
 
-Could you imagine what it must have been like? As they approached Jerusalem from the valley they would see the Temple. In their hearts they knew that they would soon be able to worship God in his presence. Perhaps as they traveled they sang this psalm and it filled them with joy. Coming to the Temple Mount was a moment of joy and fear and hope and reconciliation. 
+Could you imagine what it must have been like? As they approached Jerusalem, from the valley, they would see the Temple. In their hearts they knew that they would soon be able to worship God in his presence. Perhaps, as they traveled they sang this psalm and it filled them with joy. Coming to the Temple Mount was a moment of joy and fear and hope and reconciliation. 
 
 Yet, what sadness that pilgrimage was required. How heartbreaking it must have been to walk away from that place and know that kind of separation from their God. 
 
