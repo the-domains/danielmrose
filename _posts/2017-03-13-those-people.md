@@ -1,21 +1,16 @@
 ---
 inFeed: true
-description: >-
-  Do you have a group of people in your life that you just don't like or trust?
-  Maybe you don't like black people. Maybe you don't like white people. Maybe
-  you don't like brown people. Maybe you don't like straight people. Maybe you
-  don't like gay people. Maybe you don't like liberal people. Maybe you don't
-  like conservative people. Most of us have a "people" we just don't like. 
-dateModified: '2017-03-13T15:23:59.245Z'
-datePublished: '2017-03-13T15:23:59.636Z'
+description: "Do you have a group of people in your life that you just don't like or trust? Maybe you don't like black people. Maybe you don't like white people. Maybe you don't like brown people. Maybe you don't like straight people. Maybe you don't like gay people. Maybe you don't like liberal people. Maybe you don't like conservative people. Most of us have a \"people\" we just don't like.\_"
+dateModified: '2017-03-13T15:25:12.886Z'
+datePublished: '2017-03-13T15:25:13.864Z'
 title: Those People
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-13-those-people.md
 starred: false
 datePublishedOriginal: '2017-03-13T15:23:59.636Z'
-sourcePath: _posts/2017-03-13-those-people.md
 url: those-people/index.html
 _type: Article
 
