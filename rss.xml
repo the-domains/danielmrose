@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Mar 2017 13:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2017 13:29:10 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Mar 2017 13:26:58 GMT</pubDate>
+        <pubDate>Fri, 17 Mar 2017 13:28:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[Who Me?]]></title>
+            <description><![CDATA[<h1>Who Me?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0669493-3f93-49b4-b4ae-04b0f80f177c.jpg">,<p>When you are in the midst of a rough patch who do you blame? We all go through times where it seems like the world is against us. Relationships get hard. Work conversations don't go as planned. There is strife in our marriage or with our children. Sometimes it just feels like everyone is out to get us. When you're in the midst of those kinds of times, who do you blame?&nbsp;</p>]]></description>
+            <link>http://danielmrose.com/who-me/index.html</link>
+            <guid isPermaLink="false">30dff647-d86a-44c3-982f-4fda51f612cb</guid>
+            <pubDate>Fri, 17 Mar 2017 13:26:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Save Me From Your Followers]]></title>
             <description><![CDATA[<h1>Save Me From Your Followers</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/444f056b-6728-467d-bf4e-bb1e93cdd348.jpg">,<p>Christians seem to be held to a higher standard than other people, and rightfully so. Often times we, Christians, try to lower the standard by saying things like, "We're still sinful. We aren't perfect and we won't be perfect." While that's true, the reality is that we as followers of Jesus ought be different. Our lives should look different from people who do not follow Jesus. The kicker is that the world knows this. They know this because we have loudly told them how they ought to live. As a result, they expect us to live up to our standards.</p>,<p>Weird, right?</p>,<p>Or maybe not so much.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/just-me-and-jesusnope/index.html</link>
             <guid isPermaLink="false">8ed73877-27da-4807-96e3-a291065d17a5</guid>
             <pubDate>Wed, 08 Mar 2017 16:02:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Need to Engage]]></title>
-            <description><![CDATA[<h1>The Need to Engage</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df21444-22b8-47c9-8c95-3561ad8f2754.jpg">,<p>Tuesday nights are my favorite night of the week. Hands down, it’s not even close. On Tuesday nights I gather with a group of people who were once strangers but have become friends. On Tuesday nights I hear some of craziest, most genuine, honest, authentic, and insane perspectives on the world. </p>]]></description>
-            <link>http://danielmrose.com/the-need-to-engage/index.html</link>
-            <guid isPermaLink="false">d25328c1-d18b-401a-a096-218816758f8e</guid>
-            <pubDate>Tue, 07 Mar 2017 19:04:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
