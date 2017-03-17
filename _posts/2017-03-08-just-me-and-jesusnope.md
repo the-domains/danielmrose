@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   "Just me and Jesus." Have you heard that before? It's one of the single
   greatest lies that Christians have ever bought into.
-dateModified: '2017-03-16T17:10:28.957Z'
-datePublished: '2017-03-16T17:10:30.383Z'
+dateModified: '2017-03-17T13:28:32.487Z'
+datePublished: '2017-03-17T13:28:33.420Z'
 title: Just Me and Jesus…Nope.
 author: []
 publisher: {}
