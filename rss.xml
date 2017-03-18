@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Mar 2017 12:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2017 12:45:35 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Mar 2017 12:43:42 GMT</pubDate>
+        <pubDate>Sat, 18 Mar 2017 12:45:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[Can You Wait?]]></title>
+            <description><![CDATA[<h1>Can You Wait?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9373368-12d0-42b0-b173-c7adaddf95b9.jpg">,<p>If you're anything like me you look around at the world and wonder what is taking God so long to set things right. Many days I think, "If I were in charge I could get this place squared away pretty quick." It is easy to judge because our judgement is typically not impacted by context or nuance. I think this is why the Scriptures often remind us who will ultimately judge the nations.</p>]]></description>
+            <link>http://danielmrose.com/can-you-wait/index.html</link>
+            <guid isPermaLink="false">3d32950a-a857-4f93-9f17-708be3d68316</guid>
+            <pubDate>Sat, 18 Mar 2017 12:43:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who Me?]]></title>
             <description><![CDATA[<h1>Who Me?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0669493-3f93-49b4-b4ae-04b0f80f177c.jpg">,<p>When you are in the midst of a rough patch who do you blame? We all go through times where it seems like the world is against us. Relationships get hard. Work conversations don't go as planned. There is strife in our marriage or with our children. Sometimes it just feels like everyone is out to get us. When you're in the midst of those kinds of times, who do you blame?&nbsp;</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/infinite-care/index.html</link>
             <guid isPermaLink="false">13a35828-9857-4aba-9c96-55d2b8882708</guid>
             <pubDate>Thu, 09 Mar 2017 18:14:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just Me and Jesus…Nope.]]></title>
-            <description><![CDATA[<h1>Just Me and Jesus…Nope.</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55672ef5-26d8-4665-9ae6-6f6df0835d1a.jpg">,<p>"Just me and Jesus." Have you heard that before? It's one of the single greatest lies that Christians have ever bought into.</p>]]></description>
-            <link>http://danielmrose.com/just-me-and-jesusnope/index.html</link>
-            <guid isPermaLink="false">8ed73877-27da-4807-96e3-a291065d17a5</guid>
-            <pubDate>Wed, 08 Mar 2017 16:02:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
