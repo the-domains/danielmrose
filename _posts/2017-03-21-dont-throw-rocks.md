@@ -6,15 +6,15 @@ description: >-
   attached to it, we might look around first and then throw a rock in the water.
   Why do we do that? Is the rule a bad rule? Did the rule make us do this or is
   there something within us that demands to break the rule?
-dateModified: '2017-03-21T20:30:33.969Z'
-datePublished: '2017-03-21T20:30:34.479Z'
+dateModified: '2017-03-21T20:31:46.838Z'
+datePublished: '2017-03-21T20:31:48.629Z'
 title: Don’t Throw Rocks
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-21-dont-throw-rocks.md
 starred: false
 datePublishedOriginal: '2017-03-21T20:30:34.479Z'
-sourcePath: _posts/2017-03-21-dont-throw-rocks.md
 _type: Blurb
 
 ---
