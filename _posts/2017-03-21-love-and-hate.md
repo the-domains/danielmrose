@@ -7,22 +7,26 @@ description: >-
   What's interesting is that this is true within our relationship with God too.
   As we grow to love him we will begin to love more of what he loves and hate
   what he hates.
-dateModified: '2017-03-21T20:27:31.058Z'
-datePublished: '2017-03-21T20:27:34.152Z'
+dateModified: '2017-03-21T20:38:53.877Z'
+datePublished: '2017-03-21T20:38:54.842Z'
 title: Love and Hate
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-03-21-love-and-hate.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-21T20:26:26.413Z'
-_type: Blurb
+url: love-and-hate/index.html
+_type: Article
 
 ---
 # Love and Hate
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3cc1e4e-3e71-4214-afa4-85bab5297308.jpg)
 
 When you love someone you begin to love what they love and dislike what they dislike. It's a strange thing as you begin to see this happen within yourself. On the other hand, it's really fun when you see it happening in your spouse. What's interesting is that this is true within our relationship with God too. As we grow to love him we will begin to love more of what he loves and hate what he hates.
+
+---
 
 Psalm 97 closes with this admonition,
 
