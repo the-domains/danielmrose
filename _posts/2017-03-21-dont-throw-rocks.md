@@ -6,22 +6,26 @@ description: >-
   attached to it, we might look around first and then throw a rock in the water.
   Why do we do that? Is the rule a bad rule? Did the rule make us do this or is
   there something within us that demands to break the rule?
-dateModified: '2017-03-21T20:31:46.838Z'
-datePublished: '2017-03-21T20:31:48.629Z'
+dateModified: '2017-03-21T20:38:31.555Z'
+datePublished: '2017-03-21T20:38:33.080Z'
 title: Don’t Throw Rocks
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-03-21-dont-throw-rocks.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-21T20:30:34.479Z'
-_type: Blurb
+url: dont-throw-rocks/index.html
+_type: Article
 
 ---
 # Don't Throw Rocks
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef05bc3-1171-42eb-a802-4e115c817537.jpg)
 
 The sign read, "Do not throw rocks into the water." So what do we do? We pick up a rock and throw it into the water. If there was a severe punishment attached to it, we might look around first and then throw a rock in the water. Why do we do that? Is the rule a bad rule? Did the rule make us do this or is there something within us that demands to break the rule?
+
+---
 
 Paul wrestled with this question in Romans 7 when he wrote,
 
