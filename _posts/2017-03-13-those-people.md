@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Do you have a group of people in your life that you just don't like or trust? Maybe you don't like black people. Maybe you don't like white people. Maybe you don't like brown people. Maybe you don't like straight people. Maybe you don't like gay people. Maybe you don't like liberal people. Maybe you don't like conservative people. Most of us have a \"people\" we just don't like.\_"
-dateModified: '2017-03-21T20:31:46.838Z'
-datePublished: '2017-03-21T20:31:48.679Z'
+dateModified: '2017-03-23T13:24:52.793Z'
+datePublished: '2017-03-23T13:24:53.896Z'
 title: Those People
 author: []
 publisher: {}
