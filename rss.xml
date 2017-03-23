@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Mar 2017 13:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2017 13:25:41 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Mar 2017 13:23:54 GMT</pubDate>
+        <pubDate>Thu, 23 Mar 2017 13:25:18 GMT</pubDate>
+        <item>
+            <title><![CDATA[Eat Me]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c93080b-aabe-489f-8c30-4609bf08e0ec.jpg">,<h1>Eat Me</h1>,<p>There are times when Jesus says things that make you scratch your head. He is one subversive dude. Jesus doesn't hesitate to say something to make a person feel uncomfortable. He shakes up the status quo. He rattles cages and doesn't even care. No, Jesus was so committed to his mission of directing folks to the Father that he didn't mind upsetting a few apple carts.&nbsp;</p>]]></description>
+            <link>http://danielmrose.com/eat-me/index.html</link>
+            <guid isPermaLink="false">7acbd2f6-56c0-4001-9d89-127e2099e279</guid>
+            <pubDate>Thu, 23 Mar 2017 13:23:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will You Believe?]]></title>
             <description><![CDATA[<h1>Will You Believe?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9c0e32c-c034-4c9f-ab63-b8d1aabf827f.jpg">,<p>There are times when I am surprised by how complicated we make things. Sometimes the simplest way is the right way. It is almost as if we think we need something to be hard and difficult for it to be "right." Why do we think this? What is it about ourselves as people that demands we pursue the complicated and hard and equate it as "right"?</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/better-is-one-day/index.html</link>
             <guid isPermaLink="false">ade0ff16-69b1-4805-9d8c-085f20645931</guid>
             <pubDate>Mon, 13 Mar 2017 16:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Waaaambulance!]]></title>
-            <description><![CDATA[<h1>The Waaaambulance!</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94da7652-6fdf-4ee4-94ae-7123d34bb157.jpg">,<p>Sometimes us pastors whine. We whine about how hard our calling is.</p>,<p>"People are messy!"</p>,<p>"We never get closure!"</p>,<p>"I don't feel like I make a difference!"</p>,<p>Waaaa...waaa....waaa...</p>]]></description>
-            <link>http://danielmrose.com/the-waaaambulance/index.html</link>
-            <guid isPermaLink="false">35c3adff-45c1-426c-b8c7-f8bf6b64f7e7</guid>
-            <pubDate>Mon, 13 Mar 2017 16:15:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
