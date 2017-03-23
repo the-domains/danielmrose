@@ -5,16 +5,16 @@ description: >-
   this past week they struck me again as being timely. Maybe they will help you.
   Maybe they will simply come off as being trite and silly. They were cathartic
   for me then and they are again today. 
-dateModified: '2017-03-23T16:35:49.621Z'
-datePublished: '2017-03-23T16:35:50.067Z'
+dateModified: '2017-03-23T16:37:23.097Z'
+datePublished: '2017-03-23T16:37:24.661Z'
 title: A Response to Tragedy
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-23-a-response-to-tragedy.md
 starred: false
 datePublishedOriginal: '2017-03-23T16:35:50.067Z'
-sourcePath: _posts/2017-03-23-a-response-to-tragedy.md
 url: a-response-to-tragedy/index.html
 _type: Article
 
