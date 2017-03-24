@@ -6,8 +6,8 @@ description: >-
   need something to be hard and difficult for it to be "right." Why do we think
   this? What is it about ourselves as people that demands we pursue the
   complicated and hard and equate it as "right"?
-dateModified: '2017-03-23T16:37:23.097Z'
-datePublished: '2017-03-23T16:37:24.646Z'
+dateModified: '2017-03-24T12:15:05.323Z'
+datePublished: '2017-03-24T12:15:07.398Z'
 title: Will You Believe?
 author: []
 publisher: {}
