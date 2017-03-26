@@ -9,8 +9,8 @@ description: >-
   Jesus. The kicker is that the world knows this. They know this because we have
   loudly told them how they ought to live. As a result, they expect us to live
   up to our standards.
-dateModified: '2017-03-24T12:15:05.323Z'
-datePublished: '2017-03-24T12:15:07.423Z'
+dateModified: '2017-03-26T13:27:16.398Z'
+datePublished: '2017-03-26T13:27:17.948Z'
 title: Save Me From Your Followers
 author: []
 publisher: {}
