@@ -5,8 +5,8 @@ description: >-
   this past week they struck me again as being timely. Maybe they will help you.
   Maybe they will simply come off as being trite and silly. They were cathartic
   for me then and they are again today. 
-dateModified: '2017-03-26T13:27:16.398Z'
-datePublished: '2017-03-26T13:27:17.960Z'
+dateModified: '2017-03-27T12:50:16.362Z'
+datePublished: '2017-03-27T12:50:18.452Z'
 title: A Response to Tragedy
 author: []
 publisher: {}
