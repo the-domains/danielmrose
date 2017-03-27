@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: '"Make America Great Again!"'
-dateModified: '2017-03-23T21:37:21.195Z'
-datePublished: '2017-03-27T12:49:08.499Z'
+dateModified: '2017-03-27T12:50:16.362Z'
+datePublished: '2017-03-27T12:50:18.430Z'
 title: 'Make America Great Again, Or Not'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-27-make-america-great-again-or-not.md
 starred: false
 datePublishedOriginal: '2017-03-27T12:49:08.499Z'
-sourcePath: _posts/2017-03-27-make-america-great-again-or-not.md
 url: make-america-great-again-or-not/index.html
 _type: Article
 
