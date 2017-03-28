@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: "One of my favorite book series is\_The Lord of the Rings. It is an amazing tale that gets richer as the books progress. Too many times \"sequels\" are not as good as the original. I think what makes\_The Lord of the Rings\_particularly good is that it was conceived as a whole from the beginning. Many of our current novel series were not. The first one is written and published and then after it has shown to be marketable the rest of the books are commissioned. Often this leads to holes in the plot or some disjointedness in the narrative. Not so with\_The Lord of The Rings.\_It goes somewhere from the start. The beginning of the story really only takes its full meaning from the end of the story.\_"
-dateModified: '2017-03-27T14:24:58.520Z'
-datePublished: '2017-03-28T12:48:24.074Z'
+dateModified: '2017-03-28T12:49:48.043Z'
+datePublished: '2017-03-28T12:49:50.780Z'
 title: 'By Faith, Not By Works'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-28-by-faith-not-by-works.md
 starred: false
 datePublishedOriginal: '2017-03-28T12:48:24.074Z'
-sourcePath: _posts/2017-03-28-by-faith-not-by-works.md
 url: by-faith-not-by-works/index.html
 _type: Article
 
