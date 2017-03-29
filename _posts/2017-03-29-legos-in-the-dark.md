@@ -6,16 +6,16 @@ description: >-
   palpable. You might think it is the fear that comes from wondering if your
   child will grow up well, but it's not. Maybe this fear is that you won't like
   their future spouse, that's not it either.
-dateModified: '2017-03-27T18:45:07.675Z'
-datePublished: '2017-03-29T14:13:53.063Z'
+dateModified: '2017-03-29T14:15:01.986Z'
+datePublished: '2017-03-29T14:15:03.866Z'
 title: Legos in the Dark
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-29-legos-in-the-dark.md
 starred: false
 datePublishedOriginal: '2017-03-29T14:13:53.063Z'
-sourcePath: _posts/2017-03-29-legos-in-the-dark.md
 url: legos-in-the-dark/index.html
 _type: Article
 
