@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Have you noticed when you're around a University of Michigan grad you find that out in the first five minutes of the conversation? If you've ever been around a vegan, the same principle applies.\_The cross-fitter may be the best example of this! While these are all generalizations and are used as punch lines to jokes, there is some real truth to them. Why? Because these people have experienced significant life change through their experiences and these things have, in a sense, placed a song in their heart."
-dateModified: '2017-03-29T14:15:01.986Z'
-datePublished: '2017-03-29T14:15:03.925Z'
+dateModified: '2017-03-30T12:50:49.220Z'
+datePublished: '2017-03-30T12:50:50.576Z'
 title: Sing a New Song
 author: []
 publisher: {}
