@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-03-29T14:15:03.929Z'
-dateModified: '2017-03-29T14:15:01.986Z'
+datePublished: '2017-03-30T12:50:50.658Z'
+dateModified: '2017-03-30T12:50:49.220Z'
 description: >-
   Today is Ash Wednesday. It’s the day that starts Lent and a traditional season
   of fasting. Have you ever wondered why the Church has done this leading up to
