@@ -8,8 +8,8 @@ description: >-
   happens when I try to be hip and cool (this failed for me even before kids,
   but now it's just fun to watch them shudder). Even though I embarrass them at
   times, they still love me fiercely.
-dateModified: '2017-03-30T13:01:42.764Z'
-datePublished: '2017-03-30T13:01:43.435Z'
+dateModified: '2017-03-31T13:35:37.379Z'
+datePublished: '2017-03-31T13:35:39.642Z'
 title: So Embarrasing…
 author: []
 publisher: {}
