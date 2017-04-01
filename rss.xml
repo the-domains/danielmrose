@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 01 Apr 2017 12:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2017 12:51:27 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Apr 2017 12:45:51 GMT</pubDate>
+        <pubDate>Sat, 01 Apr 2017 12:51:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Gift]]></title>
+            <description><![CDATA[<h1>The Gift</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2cb90a4-e7cb-44bb-8849-aef9376b1889.jpg">,<p>Do you ever wonder if there is a point to anything? Is your life heading anywhere? I wonder that a lot. It seems like we do the same things over and over and over and over and...</p>]]></description>
+            <link>http://danielmrose.com/the-gift/index.html</link>
+            <guid isPermaLink="false">4e75e68f-d655-4238-8702-2de5a2c36418</guid>
+            <pubDate>Sat, 01 Apr 2017 12:43:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You’re Dead To Me!]]></title>
             <description><![CDATA[<h1>You’re Dead To Me!</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67092ff2-e8ab-4dc8-b67f-3a33d148170f.jpg">,<p>As a campus minister and a pastor you see a great many things. I think the hardest thing that I have had to do over years is help people see that they are in destructive relationships. Each of us has a desire to be deeply loved and accepted. For many people they are willing to be in a destructive relationship simply to be in a relationship.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/the-gospel-is-power/index.html</link>
             <guid isPermaLink="false">af8da0fa-c51e-472d-a6fe-e16aa0889373</guid>
             <pubDate>Tue, 14 Mar 2017 12:23:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eat Me]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c93080b-aabe-489f-8c30-4609bf08e0ec.jpg">,<h1>Eat Me</h1>,<p>There are times when Jesus says things that make you scratch your head. He is one subversive dude. Jesus doesn't hesitate to say something to make a person feel uncomfortable. He shakes up the status quo. He rattles cages and doesn't even care. No, Jesus was so committed to his mission of directing folks to the Father that he didn't mind upsetting a few apple carts.&nbsp;</p>]]></description>
-            <link>http://danielmrose.com/eat-me/index.html</link>
-            <guid isPermaLink="false">7acbd2f6-56c0-4001-9d89-127e2099e279</guid>
-            <pubDate>Thu, 23 Mar 2017 13:23:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
