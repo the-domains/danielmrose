@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 10 Apr 2017 15:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2017 15:43:36 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Apr 2017 15:40:22 GMT</pubDate>
+        <pubDate>Mon, 10 Apr 2017 15:42:54 GMT</pubDate>
+        <item>
+            <title><![CDATA[Will You Keep Speaking?]]></title>
+            <description><![CDATA[<h1>Will You Keep Speaking?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/956b6d7c-a5f8-4c57-94d0-f6f2289f9f4a.jpg">,<p>What happens when you challenge the status quo? If someone rocks the boat those in power get really uncomfortable. When you start doing things and saying things that force people to look at the world differently then folks who guard the normal begin to try and stop you.</p>]]></description>
+            <link>http://danielmrose.com/will-you-keep-speaking/index.html</link>
+            <guid isPermaLink="false">bbe3d0d6-c168-4cac-84cb-6b7eb9e0e33f</guid>
+            <pubDate>Mon, 10 Apr 2017 15:40:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Gift]]></title>
             <description><![CDATA[<h1>The Gift</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2cb90a4-e7cb-44bb-8849-aef9376b1889.jpg">,<p>Do you ever wonder if there is a point to anything? Is your life heading anywhere? I wonder that a lot. It seems like we do the same things over and over and over and over and...</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/a-response-to-tragedy/index.html</link>
             <guid isPermaLink="false">46cc0a11-4aa8-4304-b31e-8b899e652c39</guid>
             <pubDate>Thu, 23 Mar 2017 16:35:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gospel is Power]]></title>
-            <description><![CDATA[<h1>The Gospel is Power</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9461b7c2-e7a4-4611-bb7c-c0d76ae978ec.jpg">,<p>What do you think of when you hear someone say, "The Gospel"? Some of us think about four point outlines or The Romans Road. Others think about service. Still others, think about the crucifixion and resurrection. Some people may think about Jesus being victorious over sin and death. You might think about how to get to heaven or how to avoid hell. Maybe you think about music.&nbsp;</p>,<p>Do you think about power?&nbsp;</p>]]></description>
-            <link>http://danielmrose.com/the-gospel-is-power/index.html</link>
-            <guid isPermaLink="false">af8da0fa-c51e-472d-a6fe-e16aa0889373</guid>
-            <pubDate>Tue, 14 Mar 2017 12:23:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
