@@ -5,16 +5,16 @@ description: >-
   those in power get really uncomfortable. When you start doing things and
   saying things that force people to look at the world differently then folks
   who guard the normal begin to try and stop you.
-dateModified: '2017-04-10T15:40:13.834Z'
-datePublished: '2017-04-10T15:40:15.277Z'
+dateModified: '2017-04-10T15:41:49.062Z'
+datePublished: '2017-04-10T15:41:52.020Z'
 title: Will You Keep Speaking?
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-10-will-you-keep-speaking.md
 starred: false
 datePublishedOriginal: '2017-04-10T15:40:15.277Z'
-sourcePath: _posts/2017-04-10-will-you-keep-speaking.md
 url: will-you-keep-speaking/index.html
 _type: Article
 
