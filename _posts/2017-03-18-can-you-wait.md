@@ -7,8 +7,8 @@ description: >-
   because our judgement is typically not impacted by context or nuance. I think
   this is why the Scriptures often remind us who will ultimately judge the
   nations.
-dateModified: '2017-04-10T15:41:49.062Z'
-datePublished: '2017-04-10T15:41:52.048Z'
+dateModified: '2017-04-11T18:05:14.346Z'
+datePublished: '2017-04-11T18:05:17.014Z'
 title: Can You Wait?
 author: []
 publisher: {}
