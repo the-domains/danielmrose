@@ -5,8 +5,8 @@ description: >-
   times. For some reason I am fascinated by the thought. I am quite certain that
   I would never want to actually have lived then, but to ponder their lifestyle
   is something that captures my imagination. 
-dateModified: '2017-04-11T18:05:14.346Z'
-datePublished: '2017-04-11T18:05:18.064Z'
+dateModified: '2017-04-12T13:17:22.446Z'
+datePublished: '2017-04-12T13:17:26.243Z'
 title: Better Is One Day
 author: []
 publisher: {}
