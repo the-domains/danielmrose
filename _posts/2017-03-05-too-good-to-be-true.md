@@ -7,8 +7,8 @@ description: >-
   dealer that if it’s too good to be true, it probably is.” Over and over again
   we find that to be a truism don’t we? People rarely under promise and over
   deliver. The fact is, if it’s too good to be true, it probably is. 
-dateModified: '2017-04-11T18:05:14.346Z'
-datePublished: '2017-04-11T18:05:17.492Z'
+dateModified: '2017-04-12T13:17:22.446Z'
+datePublished: '2017-04-12T13:17:26.052Z'
 title: Too Good to Be True
 author: []
 publisher: {}
