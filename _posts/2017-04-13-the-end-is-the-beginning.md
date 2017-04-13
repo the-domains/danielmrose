@@ -1,27 +1,22 @@
 ---
 inFeed: true
-description: >-
-  Maundy Thursday is the day that we remember the evening of the Last Supper. It
-  is when we Christians traditionally believe that Jesus celebrated this final
-  Passover meal with his disciples and then was arrested. It is a somber
-  evening. It is the beginning of the end of the life of Jesus. In mere hours he
-  will be handed over, beaten, and ultimately crucified. 
-dateModified: '2017-04-13T12:56:06.065Z'
-datePublished: '2017-04-13T12:56:06.831Z'
+description: "Maundy Thursday is the day that we remember the evening of the Last Supper. It is when we Christians traditionally believe that Jesus celebrated this final Passover meal with his disciples and then was arrested. It is a somber evening. It is the beginning of the end of the life of Jesus. In mere hours he will be handed over, beaten, and ultimately crucified.\_"
+dateModified: '2017-04-13T12:56:53.983Z'
+datePublished: '2017-04-13T12:56:54.725Z'
 title: The End is the Beginning
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-13-the-end-is-the-beginning.md
 starred: false
 datePublishedOriginal: '2017-04-13T12:56:06.831Z'
-sourcePath: _posts/2017-04-13-the-end-is-the-beginning.md
 url: the-end-is-the-beginning/index.html
 _type: Article
 
 ---
 # The End is the Beginning
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd1baf40-4db4-4356-8e9b-33ec99a31335.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/533b93771ebc01add9cf339ae1c27199/croprotate.jpg?cropheight=2209&cropwidth=3321&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbd1baf40-4db4-4356-8e9b-33ec99a31335.jpg&x=0&y=0)
 
 Maundy Thursday is the day that we remember the evening of the Last Supper. It is when we Christians traditionally believe that Jesus celebrated this final Passover meal with his disciples and then was arrested. It is a somber evening. It is the beginning of the end of the life of Jesus. In mere hours he will be handed over, beaten, and ultimately crucified. 
 
