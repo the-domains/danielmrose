@@ -5,22 +5,26 @@ description: >-
   fear. They were hiding from the Jewish authorities. Jesus says to them,
   “Peace. Again, I say to you peace. I am sending you as the Father has sent
   me.” 
-dateModified: '2017-04-17T13:03:57.499Z'
-datePublished: '2017-04-17T13:03:58.509Z'
+dateModified: '2017-04-17T13:05:54.373Z'
+datePublished: '2017-04-17T13:05:57.654Z'
 title: Fear to Faith
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-17-fear-to-faith.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-17T13:03:58.509Z'
-sourcePath: _posts/2017-04-17-fear-to-faith.md
-_type: Blurb
+url: fear-to-faith/index.html
+_type: Article
 
 ---
 # Fear to Faith
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db808938-fa34-482b-9156-88c5062f0144.jpg)
 
 The day that Jesus rose from the dead his disciples were huddled together in fear. They were hiding from the Jewish authorities. Jesus says to them, "Peace. Again, I say to you peace. I am sending you as the Father has sent me." 
+
+---
 
 In faith there is room for doubt. There is room to touch his side and his hands. Faith doesn't demand blind obedience. All it asks for is trust. A trust that the object of your faith can accomplish what is promised. 
 
