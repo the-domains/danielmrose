@@ -7,8 +7,8 @@ description: >-
   What's interesting is that this is true within our relationship with God too.
   As we grow to love him we will begin to love more of what he loves and hate
   what he hates.
-dateModified: '2017-04-17T13:05:54.373Z'
-datePublished: '2017-04-17T13:05:58.235Z'
+dateModified: '2017-04-18T13:25:43.343Z'
+datePublished: '2017-04-18T13:25:47.536Z'
 title: Love and Hate
 author: []
 publisher: {}
