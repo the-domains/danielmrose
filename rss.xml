@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Apr 2017 13:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2017 13:27:44 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Apr 2017 13:24:08 GMT</pubDate>
+        <pubDate>Tue, 18 Apr 2017 13:26:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Better Together]]></title>
+            <description><![CDATA[<h1>Better Together</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f61cd9b-cd4c-4e0e-8832-5df4b6e7e751.jpg">,<p>We Christians get really excited about the resurrection and rightfully so. It is the cornerstone and bedrock of our faith. Without the resurrection there would be no Christianity. Yet, what’s fascinating is that Jesus was all about something else, the ascension. </p>]]></description>
+            <link>http://danielmrose.com/better-together/index.html</link>
+            <guid isPermaLink="false">18ab2113-6a01-451d-b654-82c9ab9c05c9</guid>
+            <pubDate>Tue, 18 Apr 2017 13:21:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fear to Faith]]></title>
             <description><![CDATA[<h1>Fear to Faith</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db808938-fa34-482b-9156-88c5062f0144.jpg">,<p>The day that Jesus rose from the dead his disciples were huddled together in fear. They were hiding from the Jewish authorities. Jesus says to them, “Peace. Again, I say to you peace. I am sending you as the Father has sent me.” </p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/death-belief-and-jesus/index.html</link>
             <guid isPermaLink="false">4ac07675-d3a1-4769-8226-7c62c0ab5f29</guid>
             <pubDate>Thu, 30 Mar 2017 12:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Legos in the Dark]]></title>
-            <description><![CDATA[<h1>Legos in the Dark</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dd696cf-c819-43e4-bcc2-38a71bf59e79.jpg">,<p>As a parent of a young child there is one great fear that we all face. It is the kind of fear that strikes people to the heart. This fear is real and palpable. You might think it is the fear that comes from wondering if your child will grow up well, but it's not. Maybe this fear is that you won't like their future spouse, that's not it either.</p>]]></description>
-            <link>http://danielmrose.com/legos-in-the-dark/index.html</link>
-            <guid isPermaLink="false">db9b7bf6-ddf4-4811-ac43-53b547cbaf5e</guid>
-            <pubDate>Wed, 29 Mar 2017 14:13:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
