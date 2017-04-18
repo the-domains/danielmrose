@@ -5,16 +5,16 @@ description: >-
   is the cornerstone and bedrock of our faith. Without the resurrection there
   would be no Christianity. Yet, what’s fascinating is that Jesus was all about
   something else, the ascension. 
-dateModified: '2017-04-18T13:21:23.497Z'
-datePublished: '2017-04-18T13:21:24.745Z'
+dateModified: '2017-04-18T13:24:04.247Z'
+datePublished: '2017-04-18T13:24:05.866Z'
 title: Better Together
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-18-better-together.md
 starred: false
 datePublishedOriginal: '2017-04-18T13:21:24.745Z'
-sourcePath: _posts/2017-04-18-better-together.md
 url: better-together/index.html
 _type: Article
 
@@ -26,17 +26,19 @@ We Christians get really excited about the resurrection and rightfully so. It is
 
 ---
 
-The ascension is our understanding that the resurrected Christ is now at the right of the Father interceding on our behalf. We get a description of the ascension in Matthew 28 and in Acts 1\. Why was Jesus all about the ascension? 
+The ascension is our understanding that the resurrected Christ is now at the right of the Father interceding on our behalf. We get a description of the ascension in Matthew 28 and in Acts 1\. 
 
-Ultimately it is because Jesus knew that when he ascended those who trusted him would receive the Holy Spirit. 
+Why was Jesus all about the ascension? 
+
+Ultimately it is because Jesus knew that when he ascended, those who trusted him would receive the Holy Spirit. 
 
 _"If you love me, you will keep my commandments. And I will ask the Father, and he will give you another Helper, to be with you forever, even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be in you. (John 14:15-17, ESV)"_
 
 From the beginning of the story God has been all about dwelling with his people. In John 1 we get a glimpse, _"And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth. (John 1:14, ESV)"_ This Word that became flesh is Jesus. He came and dwelt among the people. He lived and walked and moved in and among the world. 
 
-God is all about being with us. Jesus, "the Word become (sic) flesh," was limited by time and space in the flesh. So, to ultimately be with us, God would come to us in the Holy Spirit. 
+God is all about being with us. Jesus, the Word become flesh, was limited by time and space in the flesh. So, to ultimately be with us, God the Holy Spirit would come. 
 
-We are better together. To be with God is better than to be away from him. Because the Spirit is not bound by time or space, he is sent to dwell among us and in us. 
+**We are better together**. To be with God is better than to be away from him. Because the Spirit is not bound by time or space, he is sent to dwell among us and in us. 
 
 This is intimately personal. Before the ascension, the presence of God was primarily experienced in the Temple in Jerusalem. Now, each follower of Christ becomes, themselves, the temple of the living God. He lives in and us and empowers us and leads us into all truth. 
 
