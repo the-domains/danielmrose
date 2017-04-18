@@ -5,8 +5,8 @@ description: >-
   fear. They were hiding from the Jewish authorities. Jesus says to them,
   “Peace. Again, I say to you peace. I am sending you as the Father has sent
   me.” 
-dateModified: '2017-04-17T13:05:54.373Z'
-datePublished: '2017-04-17T13:05:57.654Z'
+dateModified: '2017-04-18T13:25:43.343Z'
+datePublished: '2017-04-18T13:25:47.215Z'
 title: Fear to Faith
 author: []
 publisher: {}
