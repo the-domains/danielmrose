@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '"Make America Great Again!"'
-dateModified: '2017-04-18T13:25:43.343Z'
-datePublished: '2017-04-18T13:25:47.477Z'
+dateModified: '2017-04-19T14:25:02.545Z'
+datePublished: '2017-04-19T14:25:09.419Z'
 title: 'Make America Great Again, Or Not'
 author: []
 publisher: {}
