@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Apr 2017 14:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2017 14:27:03 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Apr 2017 14:22:51 GMT</pubDate>
+        <pubDate>Wed, 19 Apr 2017 14:26:19 GMT</pubDate>
+        <item>
+            <title><![CDATA[At Home]]></title>
+            <description><![CDATA[<h1>At Home</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71cc2cb3-f094-47f8-8fbd-220de0e89295.jpg">,<p>Where is home? Some have said home is where you hang your hat. Home is almost an ineffable thing that we know but can’t explain. </p>]]></description>
+            <link>http://danielmrose.com/at-home/index.html</link>
+            <guid isPermaLink="false">7d629634-3bc0-4e41-a2ec-bf2f49ae1d93</guid>
+            <pubDate>Wed, 19 Apr 2017 14:22:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Better Together]]></title>
             <description><![CDATA[<h1>Better Together</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f61cd9b-cd4c-4e0e-8832-5df4b6e7e751.jpg">,<p>We Christians get really excited about the resurrection and rightfully so. It is the cornerstone and bedrock of our faith. Without the resurrection there would be no Christianity. Yet, what’s fascinating is that Jesus was all about something else, the ascension. </p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/youre-dead-to-me/index.html</link>
             <guid isPermaLink="false">37ca028d-97ea-4012-aa02-ff64ae6dc931</guid>
             <pubDate>Fri, 31 Mar 2017 13:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death, Belief, and Jesus]]></title>
-            <description><![CDATA[<h1>Death, Belief, and Jesus</h1>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a88ed30ce070538346b8d4713f6e9053/croprotate.jpg?cropheight=2820&cropwidth=5618&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F361486c5-b377-4754-9606-eba6b2f33aaa.jpg&x=0&y=0">,<p>Our culture does not handle death well. We are hide it. We run from it. We fight death tooth and nail. I think that there are times when we more than anything else want immortality. </p>,<p>Other cultures celebrate death. When a loved one dies they hold a parade and celebrate their freedom from this rock and their entrance into eternity. </p>,<p>Why are we afraid of it? </p>]]></description>
-            <link>http://danielmrose.com/death-belief-and-jesus/index.html</link>
-            <guid isPermaLink="false">4ac07675-d3a1-4769-8226-7c62c0ab5f29</guid>
-            <pubDate>Thu, 30 Mar 2017 12:49:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
