@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "What do you think of when you hear someone say, \"The Gospel\"? Some of us think about four point outlines or The Romans Road. Others think about service. Still others, think about the crucifixion and resurrection. Some people may think about Jesus being victorious over sin and death. You might think about how to get to heaven or how to avoid hell. Maybe you think about music.\_"
-dateModified: '2017-04-19T14:25:02.545Z'
-datePublished: '2017-04-19T14:25:09.442Z'
+dateModified: '2017-04-20T14:27:17.326Z'
+datePublished: '2017-04-20T14:27:19.723Z'
 title: The Gospel is Power
 author: []
 publisher: {}
