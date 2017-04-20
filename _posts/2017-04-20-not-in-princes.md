@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Not In Princes
-dateModified: '2017-04-20T14:25:38.319Z'
-datePublished: '2017-04-20T14:25:38.955Z'
+dateModified: '2017-04-20T14:25:43.175Z'
+datePublished: '2017-04-20T14:25:43.607Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-20-not-in-princes.md
 starred: false
 datePublishedOriginal: '2017-04-20T14:25:38.955Z'
-sourcePath: _posts/2017-04-20-not-in-princes.md
 url: not-in-princes/index.html
 _type: Article
 
