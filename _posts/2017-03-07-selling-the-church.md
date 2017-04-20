@@ -5,8 +5,8 @@ description: >-
   man translated the Message while he was pastoring a local church. He has
   written extensively on what it means to be a pastor and what it means to be
   the church. One of my favorite quotes of his is this,
-dateModified: '2017-04-19T14:25:02.545Z'
-datePublished: '2017-04-19T14:25:09.420Z'
+dateModified: '2017-04-20T14:27:17.326Z'
+datePublished: '2017-04-20T14:27:19.762Z'
 title: Selling The Church
 author:
   - name: petersondaily
