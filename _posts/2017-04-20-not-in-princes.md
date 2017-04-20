@@ -1,9 +1,16 @@
 ---
 inFeed: true
-description: Not In Princes
-dateModified: '2017-04-20T14:27:17.326Z'
-datePublished: '2017-04-20T14:27:19.640Z'
-title: ''
+description: >-
+  Over the 40 years or so the Evangelical wing of the Church has become ever
+  more engaged in politics. They are a coveted voting block. According to many
+  pundits it was their ability to get out and vote that won Donald Trump the
+  presidency over Hillary Clinton (though the real culprit was probably lack of
+  voter turn out for Clinton). This political engagement has been seen as a key
+  component to the “Culture War.” This war, according to some, is over no less
+  than the soul of America.
+dateModified: '2017-04-20T14:30:22.412Z'
+datePublished: '2017-04-20T14:30:23.270Z'
+title: Not In Princes
 author: []
 publisher: {}
 via: {}
@@ -15,8 +22,8 @@ url: not-in-princes/index.html
 _type: Article
 
 ---
-Not In Princes
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f274489-0512-4ef6-8553-07c623ddff0b.jpg)
+# Not In Princes
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f7e3aead73d90517836b93b81a6a1552/croprotate.jpg?cropheight=2212&cropwidth=3316&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7f274489-0512-4ef6-8553-07c623ddff0b.jpg&x=0&y=0)
 
 Over the 40 years or so the Evangelical wing of the Church has become ever more engaged in politics. They are a coveted voting block. According to many pundits it was their ability to get out and vote that won Donald Trump the presidency over Hillary Clinton (though the real culprit was probably lack of voter turn out for Clinton). This political engagement has been seen as a key component to the "Culture War." This war, according to some, is over no less than the soul of America.
 
