@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Sometimes us pastors whine. We whine about how hard our calling is.
-dateModified: '2017-04-20T14:27:17.326Z'
-datePublished: '2017-04-20T14:27:19.754Z'
+dateModified: '2017-04-21T13:16:18.551Z'
+datePublished: '2017-04-21T13:16:25.769Z'
 title: The Waaaambulance!
 author: []
 publisher: {}
