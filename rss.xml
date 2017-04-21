@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 21 Apr 2017 13:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2017 13:18:08 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Apr 2017 13:14:46 GMT</pubDate>
+        <pubDate>Fri, 21 Apr 2017 13:17:27 GMT</pubDate>
+        <item>
+            <title><![CDATA[Would They Even Know?]]></title>
+            <description><![CDATA[<h1>Would They Even Know?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46274c39-0d3d-4cb6-a3ce-95d4acbf2a55.jpg">,<p>The book of Acts is one of my favorite books in the Bible. The story of the early church is fascinating to me. The boldness of the apostles blows me away. They are constantly standing in the midst of the people proclaiming Jesus. Paul traveled the known world and stood before kings preaching Jesus. It’s a beautiful story of grace and adventure. </p>]]></description>
+            <link>http://danielmrose.com/would-they-even-know/index.html</link>
+            <guid isPermaLink="false">d1eb93ab-96f9-4855-9b11-da0977c23eea</guid>
+            <pubDate>Fri, 21 Apr 2017 13:14:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Not In Princes]]></title>
             <description><![CDATA[<h1>Not In Princes</h1>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f7e3aead73d90517836b93b81a6a1552/croprotate.jpg?cropheight=2212&cropwidth=3316&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7f274489-0512-4ef6-8553-07c623ddff0b.jpg&x=0&y=0">,<p>Over the 40 years or so the Evangelical wing of the Church has become ever more engaged in politics. They are a coveted voting block. According to many pundits it was their ability to get out and vote that won Donald Trump the presidency over Hillary Clinton (though the real culprit was probably lack of voter turn out for Clinton). This political engagement has been seen as a key component to the “Culture War.” This war, according to some, is over no less than the soul of America.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/will-you-keep-speaking/index.html</link>
             <guid isPermaLink="false">bbe3d0d6-c168-4cac-84cb-6b7eb9e0e33f</guid>
             <pubDate>Mon, 10 Apr 2017 15:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gift]]></title>
-            <description><![CDATA[<h1>The Gift</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2cb90a4-e7cb-44bb-8849-aef9376b1889.jpg">,<p>Do you ever wonder if there is a point to anything? Is your life heading anywhere? I wonder that a lot. It seems like we do the same things over and over and over and over and...</p>]]></description>
-            <link>http://danielmrose.com/the-gift/index.html</link>
-            <guid isPermaLink="false">4e75e68f-d655-4238-8702-2de5a2c36418</guid>
-            <pubDate>Sat, 01 Apr 2017 12:43:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
