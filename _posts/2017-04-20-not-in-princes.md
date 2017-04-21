@@ -8,8 +8,8 @@ description: >-
   voter turn out for Clinton). This political engagement has been seen as a key
   component to the “Culture War.” This war, according to some, is over no less
   than the soul of America.
-dateModified: '2017-04-20T14:30:22.412Z'
-datePublished: '2017-04-20T14:30:23.270Z'
+dateModified: '2017-04-21T13:16:18.551Z'
+datePublished: '2017-04-21T13:16:25.698Z'
 title: Not In Princes
 author: []
 publisher: {}
