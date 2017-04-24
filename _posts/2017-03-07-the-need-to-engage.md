@@ -5,8 +5,8 @@ description: >-
   close. On Tuesday nights I gather with a group of people who were once
   strangers but have become friends. On Tuesday nights I hear some of craziest,
   most genuine, honest, authentic, and insane perspectives on the world. 
-dateModified: '2017-04-21T13:16:18.551Z'
-datePublished: '2017-04-21T13:16:25.770Z'
+dateModified: '2017-04-24T13:35:42.650Z'
+datePublished: '2017-04-24T13:35:45.716Z'
 title: The Need to Engage
 author: []
 publisher: {}
