@@ -5,8 +5,8 @@ description: >-
   those in power get really uncomfortable. When you start doing things and
   saying things that force people to look at the world differently then folks
   who guard the normal begin to try and stop you.
-dateModified: '2017-04-24T13:35:42.650Z'
-datePublished: '2017-04-24T13:35:45.661Z'
+dateModified: '2017-04-25T13:38:45.097Z'
+datePublished: '2017-04-25T13:38:47.023Z'
 title: Will You Keep Speaking?
 author: []
 publisher: {}
