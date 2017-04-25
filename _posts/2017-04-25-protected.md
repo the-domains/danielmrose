@@ -5,22 +5,26 @@ description: >-
   than when I see the connections between the Old Testament and the New
   Testament. I love how the whole story fits together. Particularly, I like
   hearing the echoes of the Psalms ring out in the epistles. 
-dateModified: '2017-04-25T13:36:46.773Z'
-datePublished: '2017-04-25T13:36:47.216Z'
+dateModified: '2017-04-25T13:37:02.207Z'
+datePublished: '2017-04-25T13:37:02.825Z'
 title: Protected
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-25-protected.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-25T13:36:47.216Z'
-sourcePath: _posts/2017-04-25-protected.md
-_type: Blurb
+url: protected/index.html
+_type: Article
 
 ---
 # Protected
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfa2f174-48b6-4e6c-a670-111218550a2a.jpg)
 
 When I read the Scriptures there is nothing more satisfying or exciting to me than when I see the connections between the Old Testament and the New Testament. I love how the whole story fits together. Particularly, I like hearing the echoes of the Psalms ring out in the epistles. 
+
+---
 
 This past Sunday our congregation spent time looking at the opening verses of 1 Peter. They go like this, 
 
