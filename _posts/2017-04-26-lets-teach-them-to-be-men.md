@@ -5,21 +5,22 @@ description: >-
   about how to help college guys become men. We did men’s retreats every year.
   There was a very specific model that we thought these men had to fit in;
   tough, rugged, and macho.
-dateModified: '2017-04-26T13:49:14.497Z'
-datePublished: '2017-04-26T13:49:15.080Z'
+dateModified: '2017-04-26T13:50:15.639Z'
+datePublished: '2017-04-26T13:50:16.174Z'
 title: Let’s Teach Them To Be Men
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-26-lets-teach-them-to-be-men.md
 starred: false
 datePublishedOriginal: '2017-04-26T13:49:15.080Z'
-sourcePath: _posts/2017-04-26-lets-teach-them-to-be-men.md
 url: lets-teach-them-to-be-men/index.html
 _type: Article
 
 ---
 # Let's Teach Them To Be Men
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a46ec361-0b9f-42b2-ba28-ada8158fe756.jpg)
 
 When I was on staff with a large college ministry we spent a lot of talking about how to help college guys become men. We did men's retreats every year. There was a very specific model that we thought these men had to fit in; tough, rugged, and macho.
 
