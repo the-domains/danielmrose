@@ -5,8 +5,8 @@ description: >-
   about how to help college guys become men. We did men’s retreats every year.
   There was a very specific model that we thought these men had to fit in;
   tough, rugged, and macho.
-dateModified: '2017-04-26T13:50:15.639Z'
-datePublished: '2017-04-26T13:50:16.174Z'
+dateModified: '2017-04-26T13:51:44.066Z'
+datePublished: '2017-04-26T13:51:45.492Z'
 title: Let’s Teach Them To Be Men
 author: []
 publisher: {}
