@@ -1,18 +1,18 @@
 ---
-inFeed: true
+publisher: {}
+datePublished: '2017-04-27T23:32:31.573Z'
+dateModified: '2017-04-27T23:32:28.689Z'
 description: >-
   When I was on staff with a large college ministry we spent a lot of talking
   about how to help college guys become men. We did men’s retreats every year.
   There was a very specific model that we thought these men had to fit in;
   tough, rugged, and macho.
-dateModified: '2017-04-26T13:51:44.066Z'
-datePublished: '2017-04-26T13:51:45.492Z'
-title: Let’s Teach Them To Be Men
-author: []
-publisher: {}
 via: {}
-hasPage: true
 sourcePath: _posts/2017-04-26-lets-teach-them-to-be-men.md
+title: Let’s Teach Them To Be Men
+hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-04-26T13:49:15.080Z'
 url: lets-teach-them-to-be-men/index.html
@@ -47,3 +47,5 @@ I want my daughter to know that she is not simply her body. I want to her to kno
 We need to raise the level of expectations for our sons. I want my son to be a man. This means that he takes responsibility for himself. It means that he owns his thoughts and actions. It means that he doesn't shift blame to anyone.
 
 Let's teach them to be men.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkTFPwzAQhff8CitIbSK1dgBBKUk6VGLo0gWYEEKufW6dJnZkOxEV4r9zaVOJzef7_O7ecyF1T7QsY7WbO2tDvCoYXq2iwgun27BKVGdE0NYkckb8DNmU_ESE9NyRCmtVeVISSfcQXmpowAS_Pr3x_ZY3kPj0I_vMkdaKJP-Z9WkjE5RKiYPQOTMwo5BwwAOMHCrk2KBaYk_LC0a9E1jGjAlrDIhAFRews_ZIDQQG5uv9lXl5pJW_-Va7pi5vJz04jybK_o4uJ7xtN7K8XzwtH7NFtsyyRTwooxXacodjt1YC1caDC2tQ1kEyWk3z6DeRVnTDcjMyvYQ0xdN1hXnlcfQ0TfOCjRFGUVQMMYuae39OWtjmnFRMJA98fnCgyvgQQvvMmORGQ90464EiNyKma1rrAz5_uH7RHwkMkLQ" height="244" style=""></iframe>
