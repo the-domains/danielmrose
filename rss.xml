@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 May 2017 18:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2017 18:40:27 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 May 2017 18:38:14 GMT</pubDate>
+        <pubDate>Thu, 04 May 2017 18:39:54 GMT</pubDate>
+        <item>
+            <title><![CDATA[On Integrity]]></title>
+            <description><![CDATA[<h1>On Integrity</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32fe5699-63e4-4985-832a-49bf9c875e56.jpg">,<p>A few years ago I was thinking about integrity. Integrity is a concept that people talk much about but don’t really live out. I’m often surprised by the lack of integrity most people have.</p>]]></description>
+            <link>http://danielmrose.com/on-integrity/index.html</link>
+            <guid isPermaLink="false">13cecdb5-a2e0-4559-9a37-955455435d45</guid>
+            <pubDate>Thu, 04 May 2017 18:38:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I’m With You]]></title>
             <description><![CDATA[<h1>I’m With You</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1781f598-29b7-45c1-bceb-c6c500a61b5f.jpg">,<p>You know that time when you watch a television show and it shakes you up a bit? Sometimes works of fiction do that to me (A Brave New World rocked my world). Sometimes it’s reading history. Other times it is talking with a new friend. In this particular moment, it was a television show.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/better-together/index.html</link>
             <guid isPermaLink="false">18ab2113-6a01-451d-b654-82c9ab9c05c9</guid>
             <pubDate>Tue, 18 Apr 2017 13:21:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fear to Faith]]></title>
-            <description><![CDATA[<h1>Fear to Faith</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db808938-fa34-482b-9156-88c5062f0144.jpg">,<p>The day that Jesus rose from the dead his disciples were huddled together in fear. They were hiding from the Jewish authorities. Jesus says to them, “Peace. Again, I say to you peace. I am sending you as the Father has sent me.” </p>]]></description>
-            <link>http://danielmrose.com/fear-to-faith/index.html</link>
-            <guid isPermaLink="false">b4366870-deab-4af4-a422-3149820b88ed</guid>
-            <pubDate>Mon, 17 Apr 2017 13:03:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
