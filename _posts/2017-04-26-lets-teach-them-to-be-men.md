@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-05-04T17:47:26.672Z'
-dateModified: '2017-05-04T17:47:24.305Z'
+datePublished: '2017-05-04T18:39:33.032Z'
+dateModified: '2017-05-04T18:39:30.605Z'
 description: >-
   When I was on staff with a large college ministry we spent a lot of talking
   about how to help college guys become men. We did men’s retreats every year.
