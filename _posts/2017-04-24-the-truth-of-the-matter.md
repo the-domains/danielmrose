@@ -6,8 +6,8 @@ description: >-
   created to open our eyes to the need of missionaries to the world. The
   Americans were designed to be the heroes and the other parts of the world
   world were displayed as being less than in Christian faith. 
-dateModified: '2017-05-04T17:47:24.305Z'
-datePublished: '2017-05-04T17:47:26.668Z'
+dateModified: '2017-05-04T18:39:30.605Z'
+datePublished: '2017-05-04T18:39:33.032Z'
 title: The Truth of the Matter
 author: []
 publisher: {}
