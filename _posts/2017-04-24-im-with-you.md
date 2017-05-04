@@ -5,22 +5,26 @@ description: >-
   bit? Sometimes works of fiction do that to me (A Brave New World rocked my
   world). Sometimes it’s reading history. Other times it is talking with a new
   friend. In this particular moment, it was a television show.
-dateModified: '2017-05-04T17:45:21.534Z'
-datePublished: '2017-05-04T17:45:22.290Z'
+dateModified: '2017-05-04T17:45:36.940Z'
+datePublished: '2017-05-04T17:45:37.430Z'
 title: I’m With You
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-24-im-with-you.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-04T17:45:22.290Z'
-_type: Blurb
+url: im-with-you/index.html
+_type: Article
 
 ---
 # I'm With You
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1781f598-29b7-45c1-bceb-c6c500a61b5f.jpg)
 
 You know that time when you watch a television show and it shakes you up a bit? Sometimes works of fiction do that to me (A Brave New World rocked my world). Sometimes it's reading history. Other times it is talking with a new friend. In this particular moment, it was a television show.
+
+---
 
 We were watching Madam Secretary and one of the plot lines revolved around the middle daughter, Ali, and the youngest child, Jason, going to a school dance. Ali was wearing a slightly provocative dress and attended with a senator's son. Jason overheard her date in the bathroom talking about how he was going to "get some." Jason didn't do anything.
 
