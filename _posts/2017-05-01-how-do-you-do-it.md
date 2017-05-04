@@ -6,8 +6,8 @@ description: >-
   have passions that they are pursuing with zeal. I think both of them are
   becoming good people. They have friends, they respect adults, they are both
   people that my wife and I enjoy being around. 
-dateModified: '2017-05-01T17:31:07.379Z'
-datePublished: '2017-05-01T17:31:09.289Z'
+dateModified: '2017-05-04T17:47:24.305Z'
+datePublished: '2017-05-04T17:47:26.667Z'
 title: How Do You Do It?
 author: []
 publisher: {}
