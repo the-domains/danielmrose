@@ -4,8 +4,8 @@ description: >-
   Our culture does not handle death well. We are hide it. We run from it. We
   fight death tooth and nail. I think that there are times when we more than
   anything else want immortality. 
-dateModified: '2017-05-04T17:47:24.305Z'
-datePublished: '2017-05-04T17:47:26.639Z'
+dateModified: '2017-05-04T18:39:30.605Z'
+datePublished: '2017-05-04T18:39:33.116Z'
 title: 'Death, Belief, and Jesus'
 author: []
 publisher: {}
