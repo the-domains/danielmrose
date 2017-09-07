@@ -7,8 +7,8 @@ description: >-
   Dad was mad because of his actions. I think he was five or six. He was being
   ungrateful and so we took away his gaming system. He was able to grasp that
   this was something different.
-dateModified: '2017-05-04T18:39:30.605Z'
-datePublished: '2017-05-04T18:39:33.119Z'
+dateModified: '2017-09-07T17:55:07.973Z'
+datePublished: '2017-09-07T17:55:10.743Z'
 title: More Than Conquerors
 author: []
 publisher: {}
