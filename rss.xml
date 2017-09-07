@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 May 2017 18:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2017 17:53:09 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 May 2017 18:39:54 GMT</pubDate>
+        <pubDate>Thu, 07 Sep 2017 17:53:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Face to Face]]></title>
+            <description><![CDATA[<h1>Face to Face</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ba97086-ed0a-4f3d-98bf-272409b9eb3f.jpg">,<p>This week I was once again reminded that our world is shattered and radically corrupted. I was reminded because our systems that are designed to protect the most vulnerable fail. I was reminded because once again violence, which we glorify, metastasized in real life causing real pain and real suffering. I was reminded again that our culture doesn’t value the lives of women and children. </p>]]></description>
+            <link>http://danielmrose.com/face-to-face/index.html</link>
+            <guid isPermaLink="false">77692be7-fda6-494e-b65e-67423dfbd56e</guid>
+            <pubDate>Thu, 25 May 2017 18:14:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On Integrity]]></title>
             <description><![CDATA[<h1>On Integrity</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32fe5699-63e4-4985-832a-49bf9c875e56.jpg">,<p>A few years ago I was thinking about integrity. Integrity is a concept that people talk much about but don’t really live out. I’m often surprised by the lack of integrity most people have.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/at-home/index.html</link>
             <guid isPermaLink="false">7d629634-3bc0-4e41-a2ec-bf2f49ae1d93</guid>
             <pubDate>Wed, 19 Apr 2017 14:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Better Together]]></title>
-            <description><![CDATA[<h1>Better Together</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f61cd9b-cd4c-4e0e-8832-5df4b6e7e751.jpg">,<p>We Christians get really excited about the resurrection and rightfully so. It is the cornerstone and bedrock of our faith. Without the resurrection there would be no Christianity. Yet, what’s fascinating is that Jesus was all about something else, the ascension. </p>]]></description>
-            <link>http://danielmrose.com/better-together/index.html</link>
-            <guid isPermaLink="false">18ab2113-6a01-451d-b654-82c9ab9c05c9</guid>
-            <pubDate>Tue, 18 Apr 2017 13:21:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
