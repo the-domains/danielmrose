@@ -5,16 +5,18 @@ description: >-
   observing, watching, and listening. It was really helpful for me to simply be
   quiet. My natural posture is to speak. But, sometimes that needs to be
   tempered and set aside to listen and pay attention. 
-dateModified: '2017-09-07T17:52:43.198Z'
-datePublished: '2017-09-07T17:52:43.880Z'
+dateModified: '2017-09-07T17:53:05.660Z'
+datePublished: '2017-09-07T17:53:06.258Z'
 title: Where Do We Go From Here?
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-07-where-do-we-go-from-here.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-07T17:52:43.880Z'
-sourcePath: _posts/2017-09-07-where-do-we-go-from-here.md
-_type: Blurb
+url: where-do-we-go-from-here/index.html
+_type: Article
 
 ---
 # Where Do We Go From Here?
