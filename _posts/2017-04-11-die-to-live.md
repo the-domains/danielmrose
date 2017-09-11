@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Do you know people who have green thumbs? These folks could plant a water lily in a desert and have it grow. I am not one of these people. It simply wasn't part of my life growing up. I never learned the \"joy of gardening.\" Yard work was always a chore. Our \"gardens\" simply meant more work.\_"
-dateModified: '2017-09-07T17:55:07.973Z'
-datePublished: '2017-09-07T17:55:10.729Z'
+dateModified: '2017-09-11T22:43:08.757Z'
+datePublished: '2017-09-11T22:43:16.230Z'
 title: Die to Live
 author: []
 publisher: {}
