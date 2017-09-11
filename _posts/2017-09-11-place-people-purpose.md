@@ -4,15 +4,15 @@ description: >-
   I am more convinced than ever that to be a Christian is to be a missionary.
   Yet, we don’t think very much about this reality. We don’t consider the fact
   that if we are following Jesus it necessarily means that we are on mission. 
-dateModified: '2017-09-11T22:41:06.311Z'
-datePublished: '2017-09-11T22:41:07.925Z'
+dateModified: '2017-09-11T22:43:08.757Z'
+datePublished: '2017-09-11T22:43:16.162Z'
 title: 'Place, People, Purpose'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-11-place-people-purpose.md
 starred: false
 datePublishedOriginal: '2017-09-11T22:41:07.925Z'
-sourcePath: _posts/2017-09-11-place-people-purpose.md
 _type: Blurb
 
 ---
