@@ -4,16 +4,16 @@ description: >-
   On Wednesdays, I am publishing the passage of Scripture that I am spending
   time meditating on during the week. This week I have been meditating on
   Philippians 2:1-11 (NIV & MSG). 
-dateModified: '2017-09-13T17:22:02.049Z'
-datePublished: '2017-09-13T17:22:02.912Z'
+dateModified: '2017-09-13T17:24:07.480Z'
+datePublished: '2017-09-13T17:24:09.029Z'
 title: 'This Man. This Jesus. '
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-13-this-man-this-jesus.md
 starred: false
 datePublishedOriginal: '2017-09-13T17:22:02.912Z'
-sourcePath: _posts/2017-09-13-this-man-this-jesus.md
 url: this-man-this-jesus/index.html
 _type: Article
 
