@@ -6,8 +6,8 @@ description: >-
   They are constantly standing in the midst of the people proclaiming Jesus.
   Paul traveled the known world and stood before kings preaching Jesus. It’s a
   beautiful story of grace and adventure. 
-dateModified: '2017-09-13T16:59:27.987Z'
-datePublished: '2017-09-13T16:59:29.610Z'
+dateModified: '2017-09-13T17:24:07.480Z'
+datePublished: '2017-09-13T17:24:09.157Z'
 title: Would They Even Know?
 author: []
 publisher: {}
