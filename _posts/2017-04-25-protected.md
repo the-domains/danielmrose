@@ -5,8 +5,8 @@ description: >-
   than when I see the connections between the Old Testament and the New
   Testament. I love how the whole story fits together. Particularly, I like
   hearing the echoes of the Psalms ring out in the epistles. 
-dateModified: '2017-09-13T16:59:27.987Z'
-datePublished: '2017-09-13T16:59:29.686Z'
+dateModified: '2017-09-13T17:24:07.480Z'
+datePublished: '2017-09-13T17:24:09.086Z'
 title: Protected
 author: []
 publisher: {}
