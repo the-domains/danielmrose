@@ -5,16 +5,18 @@ description: >-
   Church’s, The Essentials of our Faith. Scriptural proofs can be found
   elsewhere. These posts will focus on the “why” and the impact of these
   statements in our lives.
-dateModified: '2017-09-19T21:26:15.664Z'
-datePublished: '2017-09-19T21:26:16.142Z'
+dateModified: '2017-09-19T21:26:34.664Z'
+datePublished: '2017-09-19T21:26:35.353Z'
 title: Jesus is Lord
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-19-jesus-is-lord.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-19T21:26:16.142Z'
-sourcePath: _posts/2017-09-19-jesus-is-lord.md
-_type: Blurb
+url: jesus-is-lord/index.html
+_type: Article
 
 ---
 # Jesus is Lord
@@ -23,6 +25,8 @@ _type: Blurb
 \*NOTE: This is the second in a series on the Evangelical Presbyterian Church's, _The Essentials of our Faith_. Scriptural proofs can be found elsewhere. These posts will focus on the "why" and the impact of these statements in our lives.
 
 I think the argument can be made that no person in the history of the world has had as much of an impact as Jesus of Nazareth. We mark time before and after him (yes, I know that CE/BCE are the now the primary means of marking time, but they are the same as BC and AD). It is safe to say that no other person has had as much written about him or has been studied so thoroughly. His birth, life, and death have been studied, debated, and marveled at. Jesus is a name that brings a reaction in those who hear the name and in those who say the name. Regardless of your worldview, everyone must admit that this Jesus of Nazareth, was at the very least a remarkable individual. 
+
+---
 
 For those of us who seek to follow Jesus we believe some very specific things about him. Check out the Evangelical Presbyterian Church's statement about him, 
 
