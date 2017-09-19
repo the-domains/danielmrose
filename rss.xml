@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Sep 2017 23:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2017 00:01:29 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 Sep 2017 23:55:57 GMT</pubDate>
+        <pubDate>Tue, 19 Sep 2017 00:01:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[You Can Rest]]></title>
+            <description><![CDATA[<h1>You Can Rest</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f66147-3590-4538-83d8-6a7b8febab6a.jpg" alt="Photo by BRUNO CERVERA on Unsplash">,<p>I’ve been in full time ministry for nearly 20 years. I can’t count the number of friends who have burned out in ministry. They reach a place of complete exhaustion, desperation, hopelessness, cynicism, or depression that drives them to walk away from their calling. It’s usually some combination of these things and more. </p>,<p>There seems to be one particular trait that is cuts across all these people in their burn out. They were afraid to rest and refused to rest so they could control everything. </p>]]></description>
+            <link>http://danielmrose.com/you-can-rest/index.html</link>
+            <guid isPermaLink="false">e9c83cdf-72f7-4fac-b9ca-412e62bfab46</guid>
+            <pubDate>Mon, 18 Sep 2017 23:55:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Man. This Jesus. ]]></title>
             <description><![CDATA[<h1>This Man. This Jesus. </h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ae72257-21db-4a43-9779-a6e5a2a35ab6.jpg" alt="Photo by Aaron Burden on Unsplash">,<p>On Wednesdays, I am publishing the passage of Scripture that I am spending time meditating on during the week. This week I have been meditating on Philippians 2:1-11 (NIV &amp; MSG). </p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/lets-teach-them-to-be-men/index.html</link>
             <guid isPermaLink="false">16c5564f-6a02-40d5-9ef1-363cfed29d62</guid>
             <pubDate>Wed, 26 Apr 2017 13:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protected]]></title>
-            <description><![CDATA[<h1>Protected</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfa2f174-48b6-4e6c-a670-111218550a2a.jpg">,<p>When I read the Scriptures there is nothing more satisfying or exciting to me than when I see the connections between the Old Testament and the New Testament. I love how the whole story fits together. Particularly, I like hearing the echoes of the Psalms ring out in the epistles. </p>]]></description>
-            <link>http://danielmrose.com/protected/index.html</link>
-            <guid isPermaLink="false">43e25590-d073-4836-b876-21c14f55896c</guid>
-            <pubDate>Tue, 25 Apr 2017 13:36:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
