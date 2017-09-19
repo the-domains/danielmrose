@@ -6,16 +6,16 @@ description: >-
   exhaustion, desperation, hopelessness, cynicism, or depression that drives
   them to walk away from their calling. It’s usually some combination of these
   things and more. 
-dateModified: '2017-09-18T23:55:54.706Z'
-datePublished: '2017-09-18T23:55:55.356Z'
+dateModified: '2017-09-19T00:00:23.328Z'
+datePublished: '2017-09-19T00:00:26.246Z'
 title: You Can Rest
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-18-you-can-rest.md
 starred: false
 datePublishedOriginal: '2017-09-18T23:55:55.356Z'
-sourcePath: _posts/2017-09-18-you-can-rest.md
 url: you-can-rest/index.html
 _type: Article
 
