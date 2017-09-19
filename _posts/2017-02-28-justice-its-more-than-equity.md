@@ -4,8 +4,8 @@ description: >-
   There’s a picture that I have shared on more than occasion. It is one that I
   first saw in my children’s school. I really resonated with the point that it
   was communicating. Check it out…
-dateModified: '2017-09-19T00:00:23.328Z'
-datePublished: '2017-09-19T00:00:26.314Z'
+dateModified: '2017-09-19T21:28:32.184Z'
+datePublished: '2017-09-19T21:28:35.732Z'
 title: Justice - It’s More Than Equity
 author: []
 publisher: {}
