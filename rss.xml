@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Sep 2017 13:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2017 13:33:13 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Sep 2017 13:30:10 GMT</pubDate>
+        <pubDate>Thu, 21 Sep 2017 13:32:44 GMT</pubDate>
+        <item>
+            <title><![CDATA[Blessed Is The One Who…]]></title>
+            <description><![CDATA[<h1>Blessed Is The One Who…</h1>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f61f807b066bacb29d07dd118ca80dfa/croprotate.jpg?cropheight=3647&cropwidth=4721&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F759f0e40-e1f9-444c-bff2-1bff5694c5ba.jpg&x=0&y=0" alt="Photo by Joseph Rosales on Unsplash">,<p>We live in a time when people are always talking about how “blessed” they are. Typically that is in reference to their financial well-being. Yet, when we spend time reading the Scriptures, this image of “blessed” is not really what we see emerge.</p>]]></description>
+            <link>http://danielmrose.com/blessed-is-the-one-who/index.html</link>
+            <guid isPermaLink="false">c49b5681-5bcb-4ca6-97bd-6a4ba045c04b</guid>
+            <pubDate>Thu, 21 Sep 2017 13:30:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Not Perfect]]></title>
             <description><![CDATA[<h1>Not Perfect</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9b67fbf-a688-41f8-845f-bb6ba4b9f3de.jpg" alt="Photo by Daniel Tafjord on Unsplash">,<p>There’s nothing worse as a pastor when you’re having a lousy day (or few days) and you have a “weak” moment publicly. You know, one of those moments where you feel the flesh waking up. Your face heats up, your pulse quickens, your fists clench, and you know what is about to happen. You know you’re about say something you will later regret. Your mind is screaming, “NO! Stop! Run!” Your flesh is screaming out, “I will destroy. Right here, right now, I will destroy.”</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/face-to-face/index.html</link>
             <guid isPermaLink="false">77692be7-fda6-494e-b65e-67423dfbd56e</guid>
             <pubDate>Thu, 25 May 2017 18:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Integrity]]></title>
-            <description><![CDATA[<h1>On Integrity</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32fe5699-63e4-4985-832a-49bf9c875e56.jpg">,<p>A few years ago I was thinking about integrity. Integrity is a concept that people talk much about but don’t really live out. I’m often surprised by the lack of integrity most people have.</p>]]></description>
-            <link>http://danielmrose.com/on-integrity/index.html</link>
-            <guid isPermaLink="false">13cecdb5-a2e0-4559-9a37-955455435d45</guid>
-            <pubDate>Thu, 04 May 2017 18:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
