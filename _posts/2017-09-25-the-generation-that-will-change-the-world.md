@@ -1,24 +1,28 @@
 ---
 inFeed: true
 description: 'I received this in an email today:'
-dateModified: '2017-09-25T22:11:42.488Z'
-datePublished: '2017-09-25T22:11:43.469Z'
+dateModified: '2017-09-25T22:12:05.297Z'
+datePublished: '2017-09-25T22:12:06.104Z'
 title: The Generation That Will Change the World
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-25-the-generation-that-will-change-the-world.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-25T22:11:43.469Z'
-sourcePath: _posts/2017-09-25-the-generation-that-will-change-the-world.md
-_type: Blurb
+url: the-generation-that-will-change-the-world/index.html
+_type: Article
 
 ---
 # The Generation That Will Change the World
-![Photo by Sticker Mule on Unsplash](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb5475a-149e-4652-8c3c-2f8faa012df2.jpg)
+![Photo by Sticker Mule on Unsplash](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ee2e757052a0da678b8c1104c0d5cde6/croprotate.jpg?cropheight=4910&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fedb5475a-149e-4652-8c3c-2f8faa012df2.jpg&x=0&y=0)
 
 I received this in an email today:
 
 _The day has arrived --- Einstein said it and he was right...Having a coffee...Getting together at a restaurant...Enjoying beautiful art at the museum...Pleasantly chatting in a cafe'...Enjoying a day at the beach...At the stadium rooting for your team...Having fun with the girlfriend...A drive in a convertible...Albert Einstein: "I fear the day when the technology overlaps with our humanity. The world will only have a generation of idiots."_
+
+---
 
 I see this attitude prevalent in many folks from my generation and older (Gen X through Silent). This is kind of thing breaks my heart. Here is my response:
 
