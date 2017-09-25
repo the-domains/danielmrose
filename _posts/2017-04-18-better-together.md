@@ -5,8 +5,8 @@ description: >-
   is the cornerstone and bedrock of our faith. Without the resurrection there
   would be no Christianity. Yet, what’s fascinating is that Jesus was all about
   something else, the ascension. 
-dateModified: '2017-09-25T19:23:30.112Z'
-datePublished: '2017-09-25T19:23:31.935Z'
+dateModified: '2017-09-25T22:21:17.939Z'
+datePublished: '2017-09-25T22:21:20.363Z'
 title: Better Together
 author: []
 publisher: {}
