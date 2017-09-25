@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Maundy Thursday is the day that we remember the evening of the Last Supper. It is when we Christians traditionally believe that Jesus celebrated this final Passover meal with his disciples and then was arrested. It is a somber evening. It is the beginning of the end of the life of Jesus. In mere hours he will be handed over, beaten, and ultimately crucified.\_"
-dateModified: '2017-09-25T19:23:30.112Z'
-datePublished: '2017-09-25T19:23:31.926Z'
+dateModified: '2017-09-25T22:21:17.939Z'
+datePublished: '2017-09-25T22:21:20.372Z'
 title: The End is the Beginning
 author: []
 publisher: {}
