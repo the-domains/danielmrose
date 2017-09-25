@@ -1,16 +1,16 @@
 ---
 inFeed: true
-description: 'Some news popped regarding the future of the PCUSA’s connectional system:'
-dateModified: '2017-09-25T22:15:54.210Z'
-datePublished: '2017-09-25T22:15:54.599Z'
+description: "Some\_news\_popped regarding the future of the PCUSA’s connectional system:"
+dateModified: '2017-09-25T22:21:17.939Z'
+datePublished: '2017-09-25T22:21:20.397Z'
 title: Connectional?
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-25-connectional.md
 starred: false
 datePublishedOriginal: '2017-09-25T22:15:54.599Z'
-sourcePath: _posts/2017-09-25-connectional.md
 url: connectional/index.html
 _type: Article
 
