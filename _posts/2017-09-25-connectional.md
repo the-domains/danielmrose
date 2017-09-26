@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Some\_news\_popped regarding the future of the PCUSA’s connectional system:"
-dateModified: '2017-09-25T22:21:17.939Z'
-datePublished: '2017-09-25T22:21:20.397Z'
+dateModified: '2017-09-26T21:55:30.946Z'
+datePublished: '2017-09-26T21:55:34.355Z'
 title: Connectional?
 author: []
 publisher: {}
