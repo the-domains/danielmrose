@@ -5,8 +5,8 @@ description: >-
   bit? Sometimes works of fiction do that to me (A Brave New World rocked my
   world). Sometimes it’s reading history. Other times it is talking with a new
   friend. In this particular moment, it was a television show.
-dateModified: '2017-09-25T22:21:17.939Z'
-datePublished: '2017-09-25T22:21:20.337Z'
+dateModified: '2017-09-26T21:55:30.946Z'
+datePublished: '2017-09-26T21:55:34.315Z'
 title: I’m With You
 author: []
 publisher: {}
