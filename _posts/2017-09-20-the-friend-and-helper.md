@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   On Wednesdays, I share what passage I’m thinking about and meditating on
   during the week. This week, it’s John 16:1-15. 
-dateModified: '2017-09-25T22:21:17.939Z'
-datePublished: '2017-09-25T22:21:20.310Z'
+dateModified: '2017-09-26T21:55:30.946Z'
+datePublished: '2017-09-26T21:55:34.285Z'
 title: The Friend and Helper
 author: []
 publisher: {}
