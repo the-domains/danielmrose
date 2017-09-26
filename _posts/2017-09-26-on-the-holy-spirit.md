@@ -5,16 +5,16 @@ description: >-
   Church’s,The Essentials of our Faith. Scriptural proofs can be found
   elsewhere. These posts will focus on the “why” and the impact of these
   statements in our lives.
-dateModified: '2017-09-26T21:49:13.407Z'
-datePublished: '2017-09-26T21:49:14.372Z'
+dateModified: '2017-09-26T21:50:29.340Z'
+datePublished: '2017-09-26T21:50:29.612Z'
 title: On The Holy Spirit
 author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2017-09-26T21:49:14.372Z'
 sourcePath: _posts/2017-09-26-on-the-holy-spirit.md
+datePublishedOriginal: '2017-09-26T21:50:29.612Z'
+starred: false
 url: on-the-holy-spirit/index.html
 _type: Article
 
