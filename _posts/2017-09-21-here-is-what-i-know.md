@@ -6,8 +6,8 @@ description: >-
   on multiple police cars and officers investigating something. These two young
   men immediately folded their hands in their lap, became quiet, stared straight
   ahead, and were silent.
-dateModified: '2017-09-27T15:37:05.282Z'
-datePublished: '2017-09-27T15:37:08.316Z'
+dateModified: '2017-09-29T15:50:39.885Z'
+datePublished: '2017-09-29T15:50:42.646Z'
 title: Here Is What I Know
 author: []
 publisher: {}
