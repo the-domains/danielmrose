@@ -7,16 +7,16 @@ description: >-
   community that are broken? What are people worrying about? Who are the people
   that are trying to fix the brokenness of the world? Who are the people who
   know these people?
-dateModified: '2017-10-02T18:13:49.562Z'
-datePublished: '2017-10-02T18:13:51.705Z'
+dateModified: '2017-10-02T18:15:30.901Z'
+datePublished: '2017-10-02T18:15:34.817Z'
 title: Person of Peace
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-02-person-of-peace.md
 starred: false
 datePublishedOriginal: '2017-10-02T18:13:51.705Z'
-sourcePath: _posts/2017-10-02-person-of-peace.md
 url: person-of-peace/index.html
 _type: Article
 
