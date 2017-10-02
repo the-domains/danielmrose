@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'I received this in an email today:'
-dateModified: '2017-09-29T15:50:39.885Z'
-datePublished: '2017-09-29T15:50:42.637Z'
+dateModified: '2017-10-02T18:15:30.901Z'
+datePublished: '2017-10-02T18:15:34.993Z'
 title: The Generation That Will Change the World
 author: []
 publisher: {}
