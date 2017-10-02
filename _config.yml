@@ -40,6 +40,9 @@ navigation:
   - name: Doubt On Tap
     url: 'http://facebook.com/doubtontap'
     type: external
+  - name: The Methodist
+    url: 'http://revmikeumc.om'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7172754f-5cec-4a8d-bb29-cd5250b1cf6e.ico
 title: The Rev
@@ -53,16 +56,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Daniel M. Rose
-          url: 'https://www.youtube.com/user/drose1976'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/4J9PkLboi6w'
       keywords:
         - duration
         - daniel
@@ -74,8 +69,13 @@ content:
         - chopstick
         - creosote
         - '2016'
-      description: A header video for my blog.
-      inLanguage: en
+      related: []
+      author:
+        - name: Daniel M. Rose
+          url: 'https://www.youtube.com/user/drose1976'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: The Rev
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=4J9PkLboi6w&feature=applinks'
@@ -114,10 +114,13 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/4J9PkLboi6w'
-      title: The Rev
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: A header video for my blog.
+      inLanguage: en
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
