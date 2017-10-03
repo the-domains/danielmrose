@@ -5,16 +5,16 @@ description: >-
   Church’s, The Essentials of our Faith. Scriptural proofs can be found
   elsewhere. These posts will focus on the “why” and the impact of these
   statements in our lives.
-dateModified: '2017-10-03T17:53:55.336Z'
-datePublished: '2017-10-03T17:53:56.247Z'
+dateModified: '2017-10-03T17:56:06.994Z'
+datePublished: '2017-10-03T17:56:13.706Z'
 title: No Other Gospel
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-03-no-other-gospel.md
 starred: false
 datePublishedOriginal: '2017-10-03T17:53:56.247Z'
-sourcePath: _posts/2017-10-03-no-other-gospel.md
 url: no-other-gospel/index.html
 _type: Article
 
