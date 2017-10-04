@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-03T17:56:13.705Z'
-dateModified: '2017-10-03T17:56:06.994Z'
+datePublished: '2017-10-04T15:44:29.079Z'
+dateModified: '2017-10-04T15:44:25.260Z'
 description: >-
   I took this summer to think more and talk less. I did quite a bit of
   observing, watching, and listening. It was really helpful for me to simply be
