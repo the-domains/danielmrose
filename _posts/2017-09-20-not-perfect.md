@@ -8,8 +8,8 @@ description: >-
   something you will later regret. Your mind is screaming, “NO! Stop! Run!” Your
   flesh is screaming out, “I will destroy. Right here, right now, I will
   destroy.”
-dateModified: '2017-10-03T17:56:06.994Z'
-datePublished: '2017-10-03T17:56:13.684Z'
+dateModified: '2017-10-04T15:44:25.260Z'
+datePublished: '2017-10-04T15:44:29.069Z'
 title: Not Perfect
 author: []
 publisher: {}
