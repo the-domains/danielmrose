@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Oct 2017 15:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2017 15:40:57 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Oct 2017 15:37:10 GMT</pubDate>
+        <pubDate>Fri, 06 Oct 2017 15:40:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[You Can Be Mad At God]]></title>
+            <description><![CDATA[<h1>You Can Be Mad At God</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/604f9679-0fe1-47eb-b7f3-a3f6a3e4f6ef.jpg" alt="Photo by Jose A.Thompson on Unsplash">,<p>Life doesn’t always work. This world we live in is broken and messed up. People get sick. People die. Good people, really good people experience pain and suffering. We don’t often see the “why” behind what is going on. All we see is pain, sorrow, tears, brokenness, and heartache. </p>]]></description>
+            <link>http://danielmrose.com/you-can-be-mad-at-god/index.html</link>
+            <guid isPermaLink="false">f90676c4-cf54-4c81-aeb8-6cec763d3692</guid>
+            <pubDate>Fri, 06 Oct 2017 15:37:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Body of Christ]]></title>
             <description><![CDATA[<h1>The Body of Christ</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/136ca696-9563-44c9-aa5a-ff1c42269169.jpg" alt="Photo by Josh Applegate on Unsplash">,<p>Every Wednesday I am sharing the passage of Scripture that I’m meditating on for the week. This week: 1 Cor 12:12-27.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/not-perfect/index.html</link>
             <guid isPermaLink="false">3585397b-e914-4bd9-b0b6-4f37f5f19e2f</guid>
             <pubDate>Wed, 20 Sep 2017 18:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Friend and Helper]]></title>
-            <description><![CDATA[<h1>The Friend and Helper</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49d076cb-b7c4-461a-a835-1426c9b74817.jpg" alt="Photo by Priscilla Du Preez on Unsplash">,<p>On Wednesdays, I share what passage I’m thinking about and meditating on during the week. This week, it’s John 16:1-15. </p>]]></description>
-            <link>http://danielmrose.com/the-friend-and-helper/index.html</link>
-            <guid isPermaLink="false">9a41ceac-f2b8-45b5-8355-07337e07a49c</guid>
-            <pubDate>Wed, 20 Sep 2017 18:16:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
