@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   This weekend Ethan’s baseball team was in a huge tournament. On Sunday morning
   he played terribly at 3B, the worst since t-ball.
-dateModified: '2017-10-04T15:44:25.260Z'
-datePublished: '2017-10-04T15:44:29.094Z'
+dateModified: '2017-10-06T15:39:40.328Z'
+datePublished: '2017-10-06T15:39:43.812Z'
 title: DNA of Fatherhood Failure
 author: []
 publisher: {}
