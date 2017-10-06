@@ -5,8 +5,8 @@ description: >-
   Church’s, The Essentials of our Faith. Scriptural proofs can be found
   elsewhere. These posts will focus on the “why” and the impact of these
   statements in our lives.
-dateModified: '2017-10-04T15:44:25.260Z'
-datePublished: '2017-10-04T15:44:29.030Z'
+dateModified: '2017-10-06T15:39:40.328Z'
+datePublished: '2017-10-06T15:39:43.707Z'
 title: Jesus is Lord
 author: []
 publisher: {}
