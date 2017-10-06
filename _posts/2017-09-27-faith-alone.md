@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'This week, I am meditating on Ephesians 2:1-10. '
-dateModified: '2017-10-04T15:44:25.260Z'
-datePublished: '2017-10-04T15:44:28.982Z'
+dateModified: '2017-10-06T15:39:40.328Z'
+datePublished: '2017-10-06T15:39:43.742Z'
 title: Faith Alone
 author: []
 publisher: {}
