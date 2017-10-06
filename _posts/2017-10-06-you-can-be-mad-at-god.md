@@ -5,16 +5,16 @@ description: >-
   People get sick. People die. Good people, really good people experience pain
   and suffering. We don’t often see the “why” behind what is going on. All we
   see is pain, sorrow, tears, brokenness, and heartache. 
-dateModified: '2017-10-06T15:37:06.796Z'
-datePublished: '2017-10-06T15:37:07.934Z'
+dateModified: '2017-10-06T15:39:40.328Z'
+datePublished: '2017-10-06T15:39:43.775Z'
 title: You Can Be Mad At God
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-06-you-can-be-mad-at-god.md
 starred: false
 datePublishedOriginal: '2017-10-06T15:37:07.934Z'
-sourcePath: _posts/2017-10-06-you-can-be-mad-at-god.md
 url: you-can-be-mad-at-god/index.html
 _type: Article
 
