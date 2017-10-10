@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Oct 2017 01:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2017 21:41:23 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Oct 2017 01:21:29 GMT</pubDate>
+        <pubDate>Tue, 10 Oct 2017 21:41:21 GMT</pubDate>
+        <item>
+            <title><![CDATA[Master the Margins]]></title>
+            <description><![CDATA[<h1>Master the Margins</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c84ce23-c100-4afa-89ed-a677b450e7e6.jpg">,<p>When it comes to being on mission we often miss it because we are so busy. We have little to no time to simply be with people. There is no opportunity to listen, pray, or to just look around. Every day we rush to the next place, to the next appointment, to the next meeting, or the next event. How can we possibly be on mission if there is not time or space to simply, “be”?</p>]]></description>
+            <link>http://danielmrose.com/master-the-margins/index.html</link>
+            <guid isPermaLink="false">e437061a-1e95-474a-8160-494a988d22ed</guid>
+            <pubDate>Tue, 10 Oct 2017 01:21:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You Can Be Mad At God]]></title>
             <description><![CDATA[<h1>You Can Be Mad At God</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/604f9679-0fe1-47eb-b7f3-a3f6a3e4f6ef.jpg" alt="Photo by Jose A.Thompson on Unsplash">,<p>Life doesn’t always work. This world we live in is broken and messed up. People get sick. People die. Good people, really good people experience pain and suffering. We don’t often see the “why” behind what is going on. All we see is pain, sorrow, tears, brokenness, and heartache. </p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/blessed-is-the-one-who/index.html</link>
             <guid isPermaLink="false">c49b5681-5bcb-4ca6-97bd-6a4ba045c04b</guid>
             <pubDate>Thu, 21 Sep 2017 13:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Not Perfect]]></title>
-            <description><![CDATA[<h1>Not Perfect</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9b67fbf-a688-41f8-845f-bb6ba4b9f3de.jpg" alt="Photo by Daniel Tafjord on Unsplash">,<p>There’s nothing worse as a pastor when you’re having a lousy day (or few days) and you have a “weak” moment publicly. You know, one of those moments where you feel the flesh waking up. Your face heats up, your pulse quickens, your fists clench, and you know what is about to happen. You know you’re about say something you will later regret. Your mind is screaming, “NO! Stop! Run!” Your flesh is screaming out, “I will destroy. Right here, right now, I will destroy.”</p>]]></description>
-            <link>http://danielmrose.com/not-perfect/index.html</link>
-            <guid isPermaLink="false">3585397b-e914-4bd9-b0b6-4f37f5f19e2f</guid>
-            <pubDate>Wed, 20 Sep 2017 18:08:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
