@@ -4,9 +4,16 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Oct 2017 21:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2017 21:45:25 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Oct 2017 21:41:56 GMT</pubDate>
+        <pubDate>Tue, 10 Oct 2017 21:44:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Church]]></title>
+            <description><![CDATA[<h1>The Church</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04cb544b-69ff-435c-8288-5641604f886f.jpg" alt="Photo by Karl Fredrickson on Unsplash">,<p>*NOTE: This is the fifth in a series on the Evangelical Presbyterian Church’s, <em>The Essentials of our Faith</em>. Scriptural proofs can be found elsewhere. These posts will focus on the “why” and the impact of these statements in our lives.</p>,<p>There are few things more messy and beautiful than the local congregation of Christians. We are a community of people who are being put back together. This means that we haven’t arrived and probably won’t arrive any time soon. Being a people under construction means that there will inevitably be failures and hurts and sin. To be a Christian means that we must be connected to the local congregation, for there is no other place to be a Christian (I’m paraphrasing Eugene Peterson here). </p>]]></description>
+            <link>http://danielmrose.com/the-church/index.html</link>
+            <guid isPermaLink="false">2bb09951-d1be-4c3e-9b89-d70b1c398edb</guid>
+            <pubDate>Tue, 10 Oct 2017 21:41:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Master the Margins]]></title>
             <description><![CDATA[<h1>Master the Margins</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c84ce23-c100-4afa-89ed-a677b450e7e6.jpg">,<p>When it comes to being on mission we often miss it because we are so busy. We have little to no time to simply be with people. There is no opportunity to listen, pray, or to just look around. Every day we rush to the next place, to the next appointment, to the next meeting, or the next event. How can we possibly be on mission if there is not time or space to simply, “be”?</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://danielmrose.com/show-up/index.html</link>
             <guid isPermaLink="false">c67e50b9-2f2f-4d4e-9efa-40b55e7e46d8</guid>
             <pubDate>Mon, 25 Sep 2017 19:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blessed Is The One Who…]]></title>
-            <description><![CDATA[<h1>Blessed Is The One Who…</h1>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f61f807b066bacb29d07dd118ca80dfa/croprotate.jpg?cropheight=3647&cropwidth=4721&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F759f0e40-e1f9-444c-bff2-1bff5694c5ba.jpg&x=0&y=0" alt="Photo by Joseph Rosales on Unsplash">,<p>We live in a time when people are always talking about how “blessed” they are. Typically that is in reference to their financial well-being. Yet, when we spend time reading the Scriptures, this image of “blessed” is not really what we see emerge.</p>]]></description>
-            <link>http://danielmrose.com/blessed-is-the-one-who/index.html</link>
-            <guid isPermaLink="false">c49b5681-5bcb-4ca6-97bd-6a4ba045c04b</guid>
-            <pubDate>Thu, 21 Sep 2017 13:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
