@@ -4,16 +4,16 @@ description: >-
   *NOTE: This is the fifth in a series on the Evangelical Presbyterian Church’s,
   The Essentials of our Faith. Scriptural proofs can be found elsewhere. These
   posts will focus on the “why” and the impact of these statements in our lives.
-dateModified: '2017-10-10T21:41:18.182Z'
-datePublished: '2017-10-10T21:41:18.861Z'
+dateModified: '2017-10-10T21:41:53.169Z'
+datePublished: '2017-10-10T21:41:53.978Z'
 title: The Church
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-10-the-church.md
 starred: false
 datePublishedOriginal: '2017-10-10T21:41:18.861Z'
-sourcePath: _posts/2017-10-10-the-church.md
 url: the-church/index.html
 _type: Article
 
@@ -41,7 +41,7 @@ What do we gain from this statement? The Church is made up of people. People who
 
 We also see that our expression of being the Church is imperfect. There are no perfect local congregations. All of them are flawed in some way. As a friend once told me, "All communities have manure. You just have to figure out which manure smells the best to you." 
 
-In spite of the imperfections, there are some things we look for in a local congregation. The Word needs to be preached in its purity. That is, it is not being manipulated or being handled falsely. The sacraments are administered in their integrity. This means that they are administered with sincerity and authenticity. It means that they are held in high regard. On a side note, you can hold differing views on the sacraments and still practice them with integrity. My Baptist brothers and sisters hold to a different perspective than I do, but I don't hold their practice of baptism as having less integrity. 
+In spite of the imperfections, there are some things we look for in a local congregation. The Scriptures need to be preached in their purity. That is, they are not being manipulated or being handled falsely. The sacraments are administered in their integrity. This means that they are administered with sincerity and authenticity. It means that they are held in high regard. On a side note, you can hold differing views on the sacraments and still practice them with integrity. My Baptist brothers and sisters hold to a different perspective than I do, but I don't hold their practice of baptism as having less integrity. 
 
 In a healthy local congregation we will see spiritual discipline practiced. Discipline is a bad word now because many churches have practiced spiritual abuse and not discipline. The root of discipline is disciple, that is to teach. When we talk about proper and good spiritual discipline we are talking about reconciling someone who is struggling with sin. We are not looking to dump shame, guilt, and legalism. It is done in the context of love, grace, and mercy. 
 
