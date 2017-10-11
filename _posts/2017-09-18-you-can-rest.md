@@ -6,8 +6,8 @@ description: >-
   exhaustion, desperation, hopelessness, cynicism, or depression that drives
   them to walk away from their calling. It’s usually some combination of these
   things and more. 
-dateModified: '2017-10-10T21:43:44.875Z'
-datePublished: '2017-10-10T21:43:49.422Z'
+dateModified: '2017-10-11T18:30:27.028Z'
+datePublished: '2017-10-11T18:30:37.007Z'
 title: You Can Rest
 author: []
 publisher: {}
