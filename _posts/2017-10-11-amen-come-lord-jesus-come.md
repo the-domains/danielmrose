@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'This is the passage that I’m meditating on and pondering this week. '
-dateModified: '2017-10-11T18:25:34.921Z'
-datePublished: '2017-10-11T18:25:35.839Z'
+dateModified: '2017-10-11T18:30:27.028Z'
+datePublished: '2017-10-11T18:30:36.958Z'
 title: 'Amen. Come Lord Jesus, Come!'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-11-amen-come-lord-jesus-come.md
 starred: false
 datePublishedOriginal: '2017-10-11T18:25:35.839Z'
-sourcePath: _posts/2017-10-11-amen-come-lord-jesus-come.md
 url: amen-come-lord-jesus-come/index.html
 _type: Article
 
