@@ -5,8 +5,8 @@ description: >-
   Typically that is in reference to their financial well-being. Yet, when we
   spend time reading the Scriptures, this image of “blessed” is not really what
   we see emerge.
-dateModified: '2017-10-11T18:30:27.028Z'
-datePublished: '2017-10-11T18:30:36.795Z'
+dateModified: '2017-10-13T14:56:18.870Z'
+datePublished: '2017-10-13T14:56:22.472Z'
 title: Blessed Is The One Who…
 author: []
 publisher: {}
