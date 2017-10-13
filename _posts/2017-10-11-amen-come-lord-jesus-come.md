@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'This is the passage that I’m meditating on and pondering this week. '
-dateModified: '2017-10-11T18:30:27.028Z'
-datePublished: '2017-10-11T18:30:36.958Z'
+dateModified: '2017-10-13T14:56:18.870Z'
+datePublished: '2017-10-13T14:56:22.398Z'
 title: 'Amen. Come Lord Jesus, Come!'
 author: []
 publisher: {}
