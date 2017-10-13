@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "What do you think about? What consumes your mind when you have time to think a bit? Does your mind fill with worry, anxiety, or details? Are you consumed with thinking about all the things that you have to get done? Perhaps your mind wanders to what others think of you. Maybe you are filled with thoughts of your favorite sports team or what you're going to to do this weekend. Are your thoughts filled with the news and everything that is happening in the world?\_"
-dateModified: '2017-10-11T18:30:27.028Z'
-datePublished: '2017-10-11T18:30:37.089Z'
+dateModified: '2017-10-13T14:56:18.870Z'
+datePublished: '2017-10-13T14:56:22.580Z'
 title: What’s On Your Mind?
 author: []
 publisher: {}
