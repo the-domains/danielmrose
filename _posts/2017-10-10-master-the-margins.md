@@ -6,8 +6,8 @@ description: >-
   listen, pray, or to just look around. Every day we rush to the next place, to
   the next appointment, to the next meeting, or the next event. How can we
   possibly be on mission if there is not time or space to simply, “be”?
-dateModified: '2017-10-13T14:56:18.870Z'
-datePublished: '2017-10-13T14:56:22.523Z'
+dateModified: '2017-10-17T15:55:13.542Z'
+datePublished: '2017-10-17T15:55:16.178Z'
 title: Master the Margins
 author: []
 publisher: {}
