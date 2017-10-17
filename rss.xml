@@ -4,9 +4,23 @@
         <description><![CDATA[The Rev]]></description>
         <link>http://danielmrose.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Oct 2017 02:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2017 15:51:51 GMT</lastBuildDate>
         <atom:link href="http://danielmrose.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Oct 2017 02:24:26 GMT</pubDate>
+        <pubDate>Tue, 17 Oct 2017 15:51:27 GMT</pubDate>
+        <item>
+            <title><![CDATA[#MeToo]]></title>
+            <description><![CDATA[<h1>#MeToo</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b60fb34c-5481-45a6-8bd6-deb76dae2a9b.jpg">,<p>I am watching my social media feed fill with a singular hashtag, #MeToo. Friends, dear friends, are sharing it. Women in my congregation have been sexually abused or sexually harassed. I didn’t know. They had never shared that with me. Nor would I expect them too.</p>,<p>Yet, there it is, #MeToo.</p>]]></description>
+            <link>http://danielmrose.com/metoo/index.html</link>
+            <guid isPermaLink="false">cd5cabef-4f65-4b5f-b6a5-968c1cd25985</guid>
+            <pubDate>Tue, 17 Oct 2017 02:24:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fear and Hate or Faith and Love?]]></title>
+            <description><![CDATA[<h1>Fear and Hate or Faith and Love?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b055ffd1-7841-48dd-a5bb-e2d8ca51e6fa.jpg">,<p>“God is sovereign so we don’t need to tell anyone about Jesus.”</p>,<p>“I’m not called to be a missionary.”</p>,<p>“I’m not gifted in evangelism.”</p>]]></description>
+            <link>http://danielmrose.com/fear-and-hate-or-faith-and-love/index.html</link>
+            <guid isPermaLink="false">f3cbef94-6280-43ca-9bed-194569df9b36</guid>
+            <pubDate>Tue, 17 Oct 2017 02:23:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will I Learn? Will You?]]></title>
             <description><![CDATA[<h1>Will I Learn? Will You?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9c7f617-8e95-4eeb-85a9-482d75e0c9e4.jpg" alt="Photo by JJ Thompson on Unsplash">,<p>Do you like to learn? I pretend to like to learn. Learning requires me to change. It demands that I do something different from what I used to do. Learning requires me to change my mind, actions, and possibly even beliefs. So, I pretend to like learning. I listen intently and nod my head at appropriate times. </p>,<p>Every once in a while go next level with a well-timed, “Hmmm…” </p>]]></description>
@@ -62,20 +76,6 @@
             <link>http://danielmrose.com/person-of-peace/index.html</link>
             <guid isPermaLink="false">e00dc103-835c-4dc1-aa1f-002e038467ac</guid>
             <pubDate>Mon, 02 Oct 2017 18:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[He Laughs]]></title>
-            <description><![CDATA[<h1>He Laughs</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bbb10fe-275a-402b-8822-c1d4669b7130.jpg" alt="Photo by Christian Battaglia on Unsplash">,<p>This fall has been so much fun for me. My wife, Amy, is commuting to work every day. This means that I get to drive my daughter to dance a few times a week. Those drives are the highlight of my day. It’s amazing to get a chance to hear her heart and just to talk with her. The other she was asking me about the elections in Germany (because why wouldn’t an 8th grader be thinking about such things?). She was explaining how the German Nationalist party grew in power and how they are the descendants, politically, of the Nazis. It really bothered her. She was wondering aloud if we could see the rise of another Nazi Germany. </p>]]></description>
-            <link>http://danielmrose.com/he-laughs/index.html</link>
-            <guid isPermaLink="false">27115ba6-95c6-4ce9-acdb-f1b39a569a56</guid>
-            <pubDate>Fri, 29 Sep 2017 15:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Faith Alone]]></title>
-            <description><![CDATA[<h1>Faith Alone</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc350e0-824a-4f5d-a77e-8c2967ba2144.jpg">,<p>This week, I am meditating on Ephesians 2:1-10. </p>]]></description>
-            <link>http://danielmrose.com/faith-alone/index.html</link>
-            <guid isPermaLink="false">583db497-bdde-4e82-ab53-bc0aca0c3e35</guid>
-            <pubDate>Wed, 27 Sep 2017 15:35:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
