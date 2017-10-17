@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: “God is sovereign so we don’t need to tell anyone about Jesus.”
-dateModified: '2017-10-17T02:23:03.244Z'
-datePublished: '2017-10-17T02:23:03.668Z'
+dateModified: '2017-10-17T02:28:23.516Z'
+datePublished: '2017-10-17T02:28:25.925Z'
 title: Fear and Hate or Faith and Love?
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-17-fear-and-hate-or-faith-and-love.md
 starred: false
 datePublishedOriginal: '2017-10-17T02:23:03.668Z'
-sourcePath: _posts/2017-10-17-fear-and-hate-or-faith-and-love.md
 url: fear-and-hate-or-faith-and-love/index.html
 _type: Article
 
