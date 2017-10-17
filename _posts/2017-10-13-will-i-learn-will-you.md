@@ -6,8 +6,8 @@ description: >-
   Learning requires me to change my mind, actions, and possibly even beliefs.
   So, I pretend to like learning. I listen intently and nod my head at
   appropriate times. 
-dateModified: '2017-10-13T14:56:18.870Z'
-datePublished: '2017-10-13T14:56:22.541Z'
+dateModified: '2017-10-17T02:28:23.516Z'
+datePublished: '2017-10-17T02:28:25.905Z'
 title: Will I Learn? Will You?
 author: []
 publisher: {}
