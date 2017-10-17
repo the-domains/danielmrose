@@ -7,8 +7,8 @@ description: >-
   glorify, metastasized in real life causing real pain and real suffering. I was
   reminded again that our culture doesn’t value the lives of women and
   children. 
-dateModified: '2017-10-13T14:56:18.870Z'
-datePublished: '2017-10-13T14:56:22.581Z'
+dateModified: '2017-10-17T02:28:23.516Z'
+datePublished: '2017-10-17T02:28:25.976Z'
 title: Face to Face
 author: []
 publisher: {}
