@@ -4,8 +4,8 @@ description: >-
   *NOTE: This is the fifth in a series on the Evangelical Presbyterian Church’s,
   The Essentials of our Faith. Scriptural proofs can be found elsewhere. These
   posts will focus on the “why” and the impact of these statements in our lives.
-dateModified: '2017-10-17T02:28:23.516Z'
-datePublished: '2017-10-17T02:28:25.905Z'
+dateModified: '2017-10-17T15:55:13.542Z'
+datePublished: '2017-10-17T15:55:16.217Z'
 title: The Church
 author: []
 publisher: {}
