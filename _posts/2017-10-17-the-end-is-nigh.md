@@ -5,16 +5,16 @@ description: >-
   “numerologist” proclaiming that the end is here. If you walk around many
   cities or college campuses you will find someone screaming that, “The End is
   Nigh!”
-dateModified: '2017-10-17T15:51:23.305Z'
-datePublished: '2017-10-17T15:51:24.679Z'
+dateModified: '2017-10-17T15:55:13.542Z'
+datePublished: '2017-10-17T15:55:16.194Z'
 title: The End is NIGH!
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-17-the-end-is-nigh.md
 starred: false
 datePublishedOriginal: '2017-10-17T15:51:24.679Z'
-sourcePath: _posts/2017-10-17-the-end-is-nigh.md
 url: the-end-is-nigh/index.html
 _type: Article
 
