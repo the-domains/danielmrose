@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Every Wednesday I am sharing the passage of Scripture that I’m meditating on
   for the week. This week: 1 Cor 12:12-27.
-dateModified: '2017-10-17T02:28:23.516Z'
-datePublished: '2017-10-17T02:28:25.955Z'
+dateModified: '2017-10-17T15:55:13.542Z'
+datePublished: '2017-10-17T15:55:16.212Z'
 title: The Body of Christ
 author: []
 publisher: {}
